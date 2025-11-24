@@ -28,6 +28,14 @@ recursos/reglas_sala115.md
 recursos/documentos.md
 :::
 
+:::{toctree}
+:hidden:
+:maxdepth: 2
+:caption: BITACORA
+
+bitacora/2026.md
+:::
+
 # Portal sala 115
 
 En esta portal encuentra la siguiente información:
