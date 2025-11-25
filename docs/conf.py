@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'sala 115'
-copyright = '2026, Julian Camilo Fonseca Romero'
+copyright = '2026, Julian Camilo Fonseca Romero, IE John F. Kennedy'
 author = 'Julian Camilo Fonseca Romero'
 
 # -- General configuration ---------------------------------------------------
