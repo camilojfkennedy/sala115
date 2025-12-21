@@ -11,7 +11,7 @@ build:
     python: "3.13"
   jobs:
     pre_install:
-      - pip install sphinx_rtd_theme sphinx_design myst-parser linkify-it-py
+      - pip install sphinx_rtd_theme sphinx_design myst-parser linkify-it-py furo
     post_build:
       - echo "Build finished!"
 

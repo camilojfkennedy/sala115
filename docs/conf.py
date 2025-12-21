@@ -7,17 +7,17 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'sala 115'
-copyright = '2026, Julian Camilo Fonseca Romero, IE John F. Kennedy'
+copyright = '2026, Julian Camilo Fonseca Romero, IE John F. Kennedy, Puerto Boyacá (Boyacá), Colombia.'
 author = 'Julian Camilo Fonseca Romero'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ["myst_parser","sphinx_design"]
+extensions = ["myst_parser","sphinx_design","sphinxcontrib.mermaid"]
 
 myst_enable_extensions = [
     "dollarmath", #ecuaciones matematicas con $
-    "tasklist", # listas con casillas de verificacion pero como hacer para que sea editable?
+    "tasklist", # listas con casillas de verificacion
     "colon_fence", #bloques con ::: en vez de ```
     "attrs_inline", # para agregar atributos en linea ejemplo: IMAGENES
     "smartquotes", #comillas inteligentes
@@ -39,5 +39,19 @@ language = 'es'
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = 'sphinx_rtd_theme'
+html_theme = 'furo'
 html_static_path = ['_static']
+
+pygments_style = "sphinx"
+pygments_dark_style = "monokai"
+
+html_theme_options = {
+    "light_logo": "logo_light.png",
+    "dark_logo": "logo_light.png",
+    "sidebar_hide_name": True,
+    "light_css_variables": {
+        "color-guilabel-text": "#FF0000",
+        "color-brand-primary": "#265787",
+        "sidebar-caption-font-size": "var(--font-size--normal)",
+    },
+}
