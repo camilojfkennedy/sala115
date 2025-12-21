@@ -1,0 +1,152 @@
+# T01: Jerarquía de datos
+
+La jerarquía de datos es una forma de clasificar la información. La jerarquía de datos se compone de los siguientes elementos organizados así:
+
+$$
+Base de datos(Archivo(Registro(CAMPO(dato(carácter(BYTE(bit)))))))
+$$
+
+A continuación se muestra la definición de cada uno de los elementos (ordenados de MENOR a MAYOR) que componen la jerarquía de datos:
+
+---
+## Bit
+
+Un bit es la unidad básica de información en informática. Es como un interruptor que puede estar en dos estados: **encendido** (representado por **1**) o **apagado** (representado por **0**).
+
+:::{admonition} ¿Cómo se representa un bit?
+:class: tip
+
+Imagine una bombilla. Puede estar encendida o apagada.  Un bit es como esa bombilla, solo que en vez de luz, representa un valor digital.
+
+`1` o `0`
+:::
+
+---
+## Byte (8 bits)
+
+Un byte es un grupo de **8 bits** que trabajan juntos.
+
+> *"Es como si tuviera **8 bombillas** que pueden estar encendidas o apagadas, y cada combinación representa un valor diferente"*.
+> 
+
+Por ejemplo, un byte (8bits) puede representar un **carácter** como la letra "A", un número como **"255"**, o incluso un símbolo como “**#”**. Por ejemplo:
+
+- `10010101` → A
+- `11111111` → 255
+- `10000101` → #
+
+---
+## Carácter
+
+Son representaciones de bytes.
+
+Un carácter es como una "letra" o un "símbolo" que se ve en pantalla. Es una unidad lógica que representa un elemento individual de texto, como una letra, un número, un signo de puntuación o un espacio en blanco.
+
+`A`, `B`, `#`, `c`, `255`, `3`, `_`
+
+---
+## Dato (valor)
+
+Los datos se componen de caracteres.
+
+> *"Los datos representan valores de una variable"*.
+> 
+
+Es un atributo codificado entendible por un sistema de información. Se puede manejar y se puede comparar. Por ejemplo:
+
+ `‘CAMILO´`, `´ROJO´`, `´33°´`, `23` , `$33.000,999`, `TRUE`
+
+---
+## Campo (nombre de variable)
+
+Nombre que se coloca a un dato para identificarlo.
+
+> *"Los campos representan nombres de variables"*.
+
+Por ejemplo:
+
+```python
+NOMBRE = "CAMILO"
+COLOR = "ROJO"
+TEMPERATURA = 33
+EDAD = 23
+SALDO = 0.00991
+ESTADO_ENCENDIDO = True
+```
+
+---
+## Registro
+
+Un registro es un conjunto de campos en donde cada campo almacena un dato y en donde todos los datos pertenecen a un solo ente informático. Por ejemplo:
+
+:::{list-table} Registro de un estudiante
+:header-rows: 1
+
+* - Nombre
+  - Apellido
+  - Edad
+  - Grado
+* - Camilo
+  - Fonseca
+  - 16
+  - 11
+:::
+
+---
+## Archivo o tablas
+
+Un Archivo o tabla es un conjunto de registros que tienen la misma estructura y que pueden ser manejados como una sola unidad.
+
+> *"Toda TABLA DEBE TENER UN ID para poder identificar el registro como único"*. 
+
+Por ejemplo:
+
+:::{table} tabla estudiantes
+
+ID|Nombre|Apellido|Edad
+-|-|-|-
+1|Camilo|Fonseca|36
+2|John|Kennedy|16
+3|Daniel|Lopez|19
+4|Luis|Ruiz|23
+:::
+
+---
+## Base de datos
+
+Es un conjunto de archivos técnicamente organizados. 
+
+> *"Una base de datos esta compuesta por varias tablas relacionadas"*.
+
+Por ejemplo:
+
+:::{admonition} DB comunidad académica John F. Kennedy
+:class: tip
+
+```{table} tabla estudiantes
+
+ID|Nombre|Apellido|Grado
+-|-|-|-
+1|Camilo|Fonseca|9
+2|John|Kennedy|11
+3|Daniel|Lopez|11
+4|Luis|Ruiz|8
+```
+
+```{table} tabla docentes
+
+ID|Nombre|Apellido|Dirección curso
+-|-|-|-
+1|Saul|Duarte|10
+2|Dioselina|Mena|11
+3|Julian|Fonseca|8
+```
+
+```{table} tabla cruzada estudiantes-docentes
+
+Nombre|Apellido|ID estudiante|Director curso|ID docente
+-|-|-|-|-
+John|Kennedy|2|Dioselina|2
+Daniel|Lopez|3|Dioselina|2
+```
+:::

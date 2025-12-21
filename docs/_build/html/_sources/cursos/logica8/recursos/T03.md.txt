@@ -1,0 +1,51 @@
+# T03: Álgebra de Boole
+
+## George Boole
+
+:::{figure} ./recursos/image02.png
+:align: center
+:width: 300
+George Boole
+:::
+
+ 
+
+> **NACIMIENTO:** Lincoln (Lincolnshire), Inglaterra, 2 de noviembre de 1815
+<br/>
+> **MUERTE:** Ballintemple (Condado de Cork), Irlanda, 8 de diciembre de 1864
+> 
+
+Fue un matemático y lógico británico. Como inventor del álgebra de Boole, marcó los fundamentos de la aritmética computacional moderna. Boole es considerado como uno de los fundadores del campo de las ciencias de la computación.
+
+En 1854 publicó: **An Investigation of the Laws of Thought on Which are Founded the Mathematical Theories of Logic and Probabilities**, donde desarrolló un sistema de reglas que le permitían expresar, manipular y simplificar problemas lógicos y filosóficos cuyos argumentos admiten dos estados (verdadero o falso) por procedimientos matemáticos.
+
+Se podría decir que es el padre de los operadores lógicos simbólicos y que gracias a su álgebra hoy en día es posible operar simbólicamente para realizar operaciones lógicas.
+
+---
+## Algebra de Boole
+
+El *álgebra de Boole* en sistemas digitales, se basa en la **lógica proposicional** y se utiliza para representar un *circuito lógico* en forma de ecuaciones. En otras palabras, se trata de una *herramienta que sirve para resolver y simplificar cualquier problema que se encuentre en los sistemas digitales*.
+
+A diferencia del álgebra tradicional, que se basa en números y operaciones aritméticas, el álgebra de Boole utiliza las llamadas variables Booleanas (0 y 1) y operadores lógicos (AND, OR, NOT) para representar y manipular los datos.
+
+:::{admonition} Algebra de Boole en programación
+:class: tip
+
+El álgebra de Boole es esencial en programación, especialmente en el desarrollo de algoritmos y estructuras de control condicional. Permite:
+
+- Evaluar condiciones
+- Tomar decisiones
+- Controlar el flujo de ejecución de un programa.
+:::
+
+### Ventajas del algebra de Boole
+
+- Las leyes del álgebra de Boole permiten simplificar expresiones Booleanas complejas, lo que facilita su comprensión y análisis.
+- Mediante la aplicación de técnicas de simplificación, es posible optimizar el diseño de circuitos digitales, reduciendo el número de compuertas lógicas y mejorando su eficiencia.
+- El álgebra de Boole proporciona un marco matemático riguroso para el estudio de la lógica y el razonamiento lógico, lo que ha sido fundamental para el desarrollo de la computación moderna.
+
+### Aplicaciones algebra de Boole
+- **Diseño de circuitos digitales**: procesadores, memorias y dispositivos lógicos programables.
+- **Programación y algoritmos**: el álgebra de Boole permite el control del flujo de ejecución en los programas.
+- **Sistemas de control y automatización**: se utiliza en el modelo y diseño de sistemas de control, como en la industria manufacturera.
+- **Criptografía**: los principios del álgebra de Boole se aplican en algoritmos criptográficos, proporcionando la base matemática para la seguridad de la información y el cifrado de datos.

@@ -1,0 +1,71 @@
+# A02: Informática
+
+En esta actividad, el estudiante aprende conceptos introductorios de la lógica computacional. Desarrolle las siguientes tareas:
+
+---
+## TAREA 01: Sistema computacional
+
+1. Lea el siguiente texto:
+
+:::{admonition} ¿Qué es un sistema computacional?
+:class: tip
+Un sistema computacional es el conjunto de hardware que interactúa con un software para almacenar, procesar y mostrar información.
+
+```{figure} ./recursos/image04.png
+:align: center
+:width: 300
+Computadora 
+```
+:::
+
+2. Acorde al texto anterior: **¿Qué es un sistema computacional?**, en su cuaderno responda las siguientes preguntas:
+    - ¿De qué manera un hardware interactúa con un software? (piense en un smartphone, un smart-TV, etc.)
+    - ¿Cómo un sistema computacional interactúa con la información? (piense en un software como Microsoft EXCEL o WHATSAPP)
+
+3. En su cuaderno, Indique 5 ejemplos de sistemas computacionales.
+
+    - EJEMPLO: Un *portátil* es un ejemplo de **sistema computacional** porque su *hardware* y *software* permite registrar, almacenar y mostrar información para un usuario”.
+
+---
+## TAREA 02: Informática
+
+1. Lea el siguiente texto:
+
+:::{admonition} ¿Qué es informática?
+:class: tip
+**La informática** es la ciencia o disciplina que estudia el diseño, construcción e implementación de **sistemas computacionales** para garantizar la **integridad** y **disponibilidad** de la información.
+
+- REGLA 01: (Integridad de la información)
+    > *“Toda información debe conservar su integridad para que no pueda ser modifica sin autorización”*
+    > 
+- REGLA 02: (Disponibilidad de la información)
+    > *“Toda información debe estar disponible y llegar oportunamente”.*
+    >
+:::
+
+2. Acorde al texto: **¿Qué es informática?**, responda las siguientes preguntas en su cuaderno:
+    - ¿En que se relacionan la informática y la información?
+    - Aparte de la **integridad** y **disponibilidad**, ¿Qué otras reglas pueden ser aplicadas en la información?
+
+3. En su cuaderno, escriba los siguientes casos y por cada uno indique si aplica la regla 01 (*Integridad de la información*) o aplica la regla 02 (*disponibilidad de la información*) (escribir el por qué)
+
+    - **CASO 01**: *“De nada sirve que un banco entregue el valor de un saldo 10 meses después de ser solicitado. Es por eso que se usan las computadoras, porque permiten que la información este disponible y llegue oportunamente (milésimas de segundo)”*.
+    - **CASO 02:** *“De nada sirve que una persona vaya al banco a consultar su saldo si este no corresponde al saldo real. Es por eso que se usan las computadoras, porque permiten que la información conserve su estado sin los riesgos que representa tenerla en otros medios como el papel o en la memoria de las personas”*.
+
+```{figure} ./recursos/image05.png
+:align: center
+:width: 300
+Los bancos deben garantizar integridad y disponibilidad
+```
+
+4. En su cuaderno, CREE dos casos más en los que la integridad y la disponibilidad de la información sean vulneradas.
+
+---
+## TAREA 03: Evaluación
+
+:::{admonition} Presentación del cuaderno y sustentación
+:class: danger
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+:::
