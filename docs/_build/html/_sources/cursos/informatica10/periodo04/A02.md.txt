@@ -1,0 +1,53 @@
+# A02: NORMAS APA
+
+En esta actividad, el estudiante repasa las normas APA las cuales debe implementar en el documento del proyecto de grado. Desarrolle las siguientes tareas:
+
+:::{admonition} AVISO
+:class: note
+Para desarrollar esta actividad, acceda a la siguiente teoría:
+
+[NORMAS APA](../recursos/T07.md)
+:::
+
+---
+## TAREA 01: ¿Que són las normas APA?
+
+1. En su cuaderno responda las siguientes preguntas:
+    - ¿Qué son las normas APA?
+    - ¿Cuales son las características de formato de las normas APA?
+2. En su cuaderno complete la siguiente tabla:
+
+:::{table}
+
+Características | Descripción
+-|-
+Márgenes|
+Tamaño real|
+Sangría|
+Tipo de letra|
+Tamaño de letra|
+Numeración|
+Espaciado|
+Alineado|
+
+:::
+
+---
+## TAREA 02: Documentos con normas APA
+
+1. En su cuaderno responda las siguientes preguntas:
+    - ¿Qué elementos debe tener un documento para considerar que cumple con las normas APA?
+    - Según las normas APA ¿Qué elementos pueden estar distribuidos en varias hojas y que elementos deben tener asignada su propia hoja?
+2. En su cuaderno dibuje un ejemplo de como debe quedar una portada de un documento que cumple con las normas APA.
+
+---
+## TAREA 03: EVALUACIÓN
+
+:::{admonition} Presentación del cuaderno y sustentación
+:class: danger
+
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+:::

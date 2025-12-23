@@ -1,0 +1,33 @@
+# Plan de refuerzo 02
+
+:::{admonition} EVALUACIÓN: Plan de refuerzo (10 minutos)
+:class: danger
+Estudiar los temas a continuación. Se realiza examen de 5 preguntas. Si el estudiante no asiste en la fecha programada, este será evaluado la próxima vez que asista a clase.
+:::
+
+---
+## Electricidad y Electrónica
+
+La **electricidad** es el flujo de electrones, que son partículas subatómicas con carga negativa, a través de un conductor.
+
+La **electrónica** es la rama de la ingeniería que se ocupa del diseño y la aplicación de circuitos y dispositivos que controlan el flujo de electrones, utilizando componentes como transistores, diodos y microchips para procesar y manipular señales eléctricas.
+
+---
+## Mantenimiento
+
+Conjunto de tareas necesarias para conservar un sistema, equipo o infraestructura en condiciones óptimas de funcionamiento, asegurando su fiabilidad, disponibilidad y seguridad a lo largo del tiempo, y previniendo fallos y averías.
+
+---
+## Ciberseguridad
+
+Es la práctica de proteger sistemas informáticos, redes y datos digitales contra accesos no autorizados, ataques maliciosos y daños. Implica una variedad de medidas y tecnologías diseñadas para garantizar la confidencialidad, integridad y disponibilidad de la información, protegiendo así a individuos, organizaciones y gobiernos de las amenazas en el ciberespacio.
+
+---
+## Redes de datos
+
+Son sistemas de comunicación que permiten la interconexión de dispositivos, como computadoras, teléfonos y otros equipos, para compartir información y recursos. Utilizan diferentes tecnologías y protocolos para transmitir datos, permitiendo la comunicación y colaboración entre usuarios y sistemas a nivel local o global.
+
+---
+## Desarrollo y Programación
+
+Se refieren al proceso de crear software y aplicaciones informáticas. Implican escribir código en lenguajes de programación, diseñar la estructura y funcionalidad de los programas, probarlos y depurarlos para asegurar su correcto funcionamiento, y finalmente, implementarlos para que los usuarios puedan utilizarlos.

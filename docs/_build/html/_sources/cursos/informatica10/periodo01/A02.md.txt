@@ -1,0 +1,60 @@
+# A02: Historia de la computación personal
+
+En esta actividad, el estudiante conocen los orígenes de la computación personal.
+
+:::{admonition} AVISO
+:class: note
+Para desarrollar esta actividad, acceda a la siguiente teoría:
+
+[HISTORIA DE LA COMPUTACIÓN PERSONAL](../recursos/T01.md#historia-de-la-computación-personal)
+:::
+
+---
+## TAREA 01: Orígenes de la computadora personal
+
+1. En su cuaderno responda las siguientes preguntas:
+
+    - ¿Cuál fue la primera computadora personal de la historia y en que año se creo?
+    - ¿Qué lenguajes de programación se usaron en la primera computadora personal?
+    - ¿Cómo APPLE se relaciona con la historia de la computadora personal?
+    - ¿Quién fue Steve Jobs?
+    - ¿Cómo se democratizó el uso de las computadoras personales?
+
+---
+## TAREA 02: Apple - Macintosh
+
+1. Observe el artículo donde se describe la Macintosh y en su cuaderno realice una descripción del significado de las siguientes frases:
+
+    - *“La primera APPLE que se puede llevar en un bolso”*
+    - *“Si puedes señalar, puedes usar Macintosh”*
+    - *“PERSONALIDAD DE MACINTOSH: Lado divertido, Lado serio”*
+    - *“Muy pronto habrán dos tipos de personas: Aquellos que usan computadoras y aquellos que usan APPLES”*
+
+2. En su cuaderno responda:
+    - ¿Qué características tenía la primera Macintosh y en que año fue creada?
+
+3. En su cuaderno DIBUJE un bosquejo de la primera Macintosh
+
+---
+## TAREA 03: Microsoft
+
+1. En su cuaderno responda:
+    - ¿En que año se creo el sistema operativo Microsoft DOS y por que fue tan importante?
+2. Con ayuda de INTERNET e IA, en su cuaderno realice una descripción de los sistemas operativos de Microsoft desde DOS hasta Windows 11.
+
+---
+## TAREA 04: Línea de tiempo de la computación personal
+
+1. En su cuaderno cree una línea de tiempo con la historia de la computadora personal desde sus orígenes con ALTAIR hasta nuestros días.
+
+---
+## TAREA 05: EVALUACIÓN
+
+:::{admonition} Presentación del cuaderno y sustentación
+:class: danger
+
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+:::

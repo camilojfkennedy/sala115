@@ -48,4 +48,5 @@ cursos/programacion11/index.md
 :caption: BITÁCORA
 
 bitacora/2026.md
+referencias.md
 :::

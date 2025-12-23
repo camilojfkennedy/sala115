@@ -1,0 +1,74 @@
+# A01: Mantenimiento y electrónica
+
+En esta actividad, el estudiante conoce los conceptos de Electrónica y Mantenimiento. Desarrolle las siguientes tareas:
+
+:::{admonition} AVISO
+:class: note
+Para desarrollar esta actividad, acceda a la siguiente teoría:
+
+[MANTENIMIENTO y ELECTRÓNICA](../recursos/T02.md)
+:::
+
+---
+## TAREA 01: Importancia de la electricidad y electrónica
+
+1. RESPONDA las siguientes preguntas en su cuaderno:
+    - ¿Cómo funciona la electricidad?
+    - ¿De que forma se transmite la electricidad? 
+    
+
+2. PIENSE, ESCRIBA y DIBUJE en su cuaderno la descripción de 10 dispositivos electrónicos, luego por cada uno responda:
+    - ¿Que tocaría hacer si no existiera dicho dispositivo electrónico?
+
+3. CONSULTE en INTERNET qué es un **PANEL SOLAR** y luego escríba la información en su cuaderno.
+
+4. CONSULTE en INTERNET los **precios de compra e instalación de paneles solares** en el municipio. Luego escriba la información consultada en el cuaderno.
+
+---
+## TAREA 02: Diferencias entre electricidad y electrónica
+
+1. DILIGENCIE la siguiente tabla en su cuaderno:
+
+:::{table}
+    
+| Característica | Electricidad | Electrónica |
+| --- | --- | --- |
+| Definición |  |  |
+| Aplicaciones |  |  |
+| Componentes |  |  |
+
+:::
+
+## TAREA 03: Importancia de los mantenimientos
+
+1. Dibuje la siguiente pirámide en su cuaderno. Divídala por secciones y de menor a mayor coloque (según su criterio) 5 razones del por que son importantes los mantenimientos. La base de la pirámide es la razón menos importante.
+
+:::{figure} ./recursos/image01.png
+:align: center
+:width: 500
+
+Pirámide de la importancia
+:::
+
+---
+## TAREA 04: Diferencias en tipos de mantenimientos
+
+1. En su cuaderno escriba los siguientes casos, luego especifique que tipo de mantenimiento haría por cada caso y por qué:
+
+> **CASO 01:** *“El lote de equipos de cómputo que recién llegaron a la empresa es de la misma tecnología del lote de equipos anteriores. Serán asignados a las oficinas de secretaría y tesorería. La última vez en que fallaron los equipos, los funcionarios trabajaron con su celular. Ese día al final entregamos el pedido al cliente a tiempo”*.
+
+> **CASO 02:** *“La máquina de **torno** llegó hace dos días y nada que se ha puesto en **producción**. Estamos perdiendo **$6,000,000** al día. Este rublo es considerado **crítico**. Se espera que la máquina esté en producción a más tardar en tres días y garantizar que funcione 24/7”*.
+
+> **CASO 03:** *“Este año tampoco llegaron computadoras nuevas al colegio. Así que tenemos que volver a usar los equipos obsoletos de hace 8 años. Necesitamos la ayuda de los estudiantes para que cuiden estos equipos. Asimismo, para extender la vida útil de los equipos, será necesario instalar el sistema operativo **LINUX**”*.
+
+---
+## TAREA 05: EVALUACIÓN
+
+:::{admonition} Presentación del cuaderno y sustentación
+:class: danger
+
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+::: 

@@ -1,0 +1,132 @@
+# T05: Utilidad de la investigación
+
+A continuación se muestra los temas relacionados con la investigación:
+
+---
+## ¿Por qué investigar?
+
+**Investigar** es la acción de indagar, examinar, inspeccionar, rastrear, descubrir, aclarar o ampliar el conocimiento sobre cualquier cosa. El objetivo de investigar es dar respuestas a preguntas o problemas.
+
+Por lo general las personas no se dan cuenta pero diariamente están investigando en menor o mayor medida (informalmente).
+
+Investigar nace de una idea del interés de la persona. Esta idea puede surgir a partir de:
+
+- Lecturas o videos de interés.
+- Debate de una clase o grupos de amigos.
+- Buenas o malas experiencias.
+
+:::{figure} ./recursos/t07/image01.png
+:align: center
+:width: 350
+
+Investigar requiere analizar
+:::
+
+Los estudiantes suelen investigar por las siguientes razones:
+
+- Para recibir un grado.
+- Obtener una buena calificación.
+- Para ser reconocido.
+- Por obligación.
+
+Las anteriores razones **no son suficientes** para iniciar una investigación.
+
+:::{admonition} ¿Cuál es la principal razón para investigar?
+:class: tip
+
+Independiente de las razones que se tengan, la investigación desencadena lo siguiente:
+
+> - *“Investigar genera conocimiento…”*
+> - *“El conocimiento sirve para tomar buenas decisiones…”*
+> - *“Tomar buenas decisiones **mejoran** nuestra calidad de vida…”*
+:::
+
+:::{admonition} Investigar para mejorar
+:class: tip
+
+Independiente de las razones que se tengan, la investigación desencadena lo Las **decisiones correctas** nos otorgan algo de control sobre nuestras vidas. Una **vida sin control** desencadena varias frustraciones.
+
+Para evitar las frustraciones, se deben tomar buenas decisiones. Para tomar buenas decisiones, se debe aprender a investigar.
+
+Una buena decisión se toma cuanto la persona tiene: 
+
+- Facilidad para usar la propia mente para entender el **problema de decisión.**
+- Visión acertada para entender las **posibles consecuencias**.
+
+Una mala decisión puede obligarnos a tomar otra mala decisión, como dijo **Harry Truman**: 
+
+> - *"Toda mala decisión que tomo va seguida de otra mala decisión".*
+> 
+> [Profesor Hossein Arsham](http://home.ubalt.edu/ntsbarsh/Business-stat/home.html)
+:::
+
+:::{admonition} La Investigación Científica
+:class: tip
+
+La **investigación científica** busca obtener nuevos conocimientos para la resolución de problemas que permitan el avance en diferentes áreas de la sociedad. Por ejemplo:
+
+- La cura de diversas enfermedades.
+- Descubrimientos del porqué los estilos de vida afectan la salud de los individuos.
+- Telescopios con capacidad de observar objetos muy lejanos que desde la Tierra no es posible.
+- Descubrimientos para mejorar los medios de transporte, los medios de comunicación, o los viajes al espacio.
+
+La investigación se encuentra en cualquier área del conocimiento; un contador o un chef pueden ser capaces de investigar.
+:::
+
+---
+## Realizar una búsqueda eficiente en INTERNET
+
+Buscar información en Internet parece sencillo, sin embargo a veces puede ser confuso debido a la gran cantidad de datos disponibles, por esta razón es importante aprender a elegir las fuentes adecuadas, para ahorrar tiempo y ser acertado en las investigaciones realizadas.
+
+:::{figure} ./recursos/t07/image02.png
+:align: center
+:width: 350
+
+Investigar requiere varias fuentes de información
+:::
+
+Para realizar una búsqueda efectiva en INTERNET tenga en cuenta las siguientes características:
+
+### 1. Tener claro que se quiere investigar (establecer un objetivo de búsqueda)
+Antes de comenzar una investigación en internet, es fundamental tener una comprensión precisa de lo que se busca, pues esta claridad ayudará a dirigir de manera más efectiva los esfuerzos y a su vez optimizar el uso del tiempo.
+
+### 2. Usar palabras relevantes
+Cuando se ingresan las preguntas en el motor de búsqueda, es importante emplear las palabras clave más pertinentes para obtener resultados exactos. Por ejemplo, si se busca información sobre el desarrollo web, se puede utilizar términos clave como «HTML,» «CSS,» o «JavaScript» para lograrlo.
+
+### 3. Filtrar los resultados de búsqueda
+Los motores de búsqueda proporcionan diversas opciones de filtrado que permiten perfeccionar los resultados, también se puede aplicar filtros relacionados con:
+
+- La fecha
+- La ubicación
+- Tipo de contenido
+
+Estos recursos  brindan la oportunidad de acceder a información más reciente y pertinente de manera eficaz.
+
+### 4. Verificar credibilidad de las fuentes
+Dentro de tanta información disponible en Internet, es esencial garantizar la confiabilidad y exactitud de los datos que se encuentren. Existen fuentes confiables como sitios web de renombre, publicaciones de instituciones educativas, medios de comunicación de confianza o páginas gubernamentales reconocidas. **EVITAR WIKIPEDIA**.
+
+### 5. Usar herramientas avanzadas de búsqueda
+Los motores de búsqueda proporcionan herramientas avanzadas que permiten afinar de manera precisa los resultados, por ejemplo:
+    
+ - Emplear comillas **“ ”** para buscar una frase exacta.
+ - Utilizar el operador **-** para eliminar resultados no relevantes.
+ - Utilizar **site:** para explorar específicamente dentro de un sitio web en particular.
+    
+Estas opciones brindan un mayor control sobre las búsquedas en línea.
+
+### 6. Examinar múltiples fuentes
+La diversidad de fuentes permite obtener perspectivas diferentes y una visión más completa y equilibrada del tema que se está investigando.
+
+### 7. Organizar y analizar información
+Es importante organizar la información hallada para simplificar el análisis futuro, emplear recursos como hojas de cálculo o programas de gestión de referencias para mantener un registro estructurado de las fuentes y sus citas correspondientes, ayudará a mantener un enfoque organizado y eficiente en la gestión de los recursos de investigación.
+
+### 8. Sintetizar resultados
+Una vez se haya evaluado exhaustivamente todos los materiales recolectados, llega el momento de **sintetizar los resultados** e identificar las conclusiones fundamentales, patrones o tendencias que se hayan descubierto y presentarlos de manera precisa y resumida.
+
+### 9. Citar fuentes correctamente
+Es fundamental otorgar reconocimiento a las fuentes consultadas en la  investigación, tanto como muestra de respeto hacia los autores, como para evitar la apropiación indebida de sus ideas. Asegurarse de incorporar citas y referencias de acuerdo con el formato de citación requerido, como APA o MLA, para mantener la integridad académica del trabajo.
+    
+SE RECOMIENDA USAR ESTA WEB: [BIBGURU](https://app.bibguru.com)
+
+### 10. Revisar y editar
+Antes de concluir la  investigación, resulta esencial someter el trabajo a una revisión y edición exhaustiva, por esto es importante asegurarse de que haya coherencia en la redacción, corregir posibles errores gramaticales y verificar que el trabajo cumpla con las pautas estipuladas para la presentación de investigaciones.

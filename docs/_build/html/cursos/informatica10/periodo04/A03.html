@@ -1,0 +1,832 @@
+<!doctype html>
+<html class="no-js" lang="es" data-content_root="../../../">
+  <head><meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="index" title="Índice" href="../../../genindex.html"><link rel="search" title="Búsqueda" href="../../../search.html"><link rel="next" title="Plan de refuerzo 04" href="R04.html"><link rel="prev" title="A02: NORMAS APA" href="A02.html">
+        <link rel="prefetch" href="../../../_static/logo_light.png" as="image">
+        <link rel="prefetch" href="../../../_static/logo_light.png" as="image">
+
+    <!-- Generated with Sphinx 8.2.3 and Furo 2025.09.25 -->
+        <title>A03: Construcción documento anteproyecto - EVA - sala 115</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=03e43079" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo.css?v=580074bf" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/sphinx-design.min.css?v=95c83b7e" />
+    <link rel="stylesheet" type="text/css" href="../../../_static/styles/furo-extensions.css?v=8dab3a3b" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #eeffcc;
+  --color-code-foreground: black;
+  --color-guilabel-text: #FF0000;
+  --color-brand-primary: #265787;
+  --sidebar-caption-font-size: var(--font-size--normal);
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #272822;
+  --color-code-foreground: #f8f8f2;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #272822;
+  --color-code-foreground: #f8f8f2;
+  
+      }
+    }
+  }
+</style></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-with-moon" viewBox="0 0 24 24">
+    <title>Auto light/dark, in light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path style="opacity: 50%" d="M 5.411 14.504 C 5.471 14.504 5.532 14.504 5.591 14.504 C 3.639 16.319 4.383 19.569 6.931 20.352 C 7.693 20.586 8.512 20.551 9.25 20.252 C 8.023 23.207 4.056 23.725 2.11 21.184 C 0.166 18.642 1.702 14.949 4.874 14.536 C 5.051 14.512 5.231 14.5 5.411 14.5 L 5.411 14.504 Z"/>
+      <line x1="14.5" y1="3.25" x2="14.5" y2="1.25"/>
+      <line x1="14.5" y1="15.85" x2="14.5" y2="17.85"/>
+      <line x1="10.044" y1="5.094" x2="8.63" y2="3.68"/>
+      <line x1="19" y1="14.05" x2="20.414" y2="15.464"/>
+      <line x1="8.2" y1="9.55" x2="6.2" y2="9.55"/>
+      <line x1="20.8" y1="9.55" x2="22.8" y2="9.55"/>
+      <line x1="10.044" y1="14.006" x2="8.63" y2="15.42"/>
+      <line x1="19" y1="5.05" x2="20.414" y2="3.636"/>
+      <circle cx="14.5" cy="9.55" r="3.6"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon-with-sun" viewBox="0 0 24 24">
+    <title>Auto light/dark, in dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path d="M 8.282 7.007 C 8.385 7.007 8.494 7.007 8.595 7.007 C 5.18 10.184 6.481 15.869 10.942 17.24 C 12.275 17.648 13.706 17.589 15 17.066 C 12.851 22.236 5.91 23.143 2.505 18.696 C -0.897 14.249 1.791 7.786 7.342 7.063 C 7.652 7.021 7.965 7 8.282 7 L 8.282 7.007 Z"/>
+      <line style="opacity: 50%" x1="18" y1="3.705" x2="18" y2="2.5"/>
+      <line style="opacity: 50%" x1="18" y1="11.295" x2="18" y2="12.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="4.816" x2="14.464" y2="3.964"/>
+      <line style="opacity: 50%" x1="20.711" y1="10.212" x2="21.563" y2="11.063"/>
+      <line style="opacity: 50%" x1="14.205" y1="7.5" x2="13.001" y2="7.5"/>
+      <line style="opacity: 50%" x1="21.795" y1="7.5" x2="23" y2="7.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="10.184" x2="14.464" y2="11.036"/>
+      <line style="opacity: 50%" x1="20.711" y1="4.789" x2="21.563" y2="3.937"/>
+      <circle style="opacity: 50%" cx="18" cy="7.5" r="2.169"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-pencil" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-pencil-code">
+      <path d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4" />
+      <path d="M13.5 6.5l4 4" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+  <symbol id="svg-eye" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-eye-code">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+      <path
+        d="M11.11 17.958c-3.209 -.307 -5.91 -2.293 -8.11 -5.958c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6c-.21 .352 -.427 .688 -.647 1.008" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle site navigation sidebar">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc" aria-label="Toggle table of contents sidebar">
+<label class="overlay sidebar-overlay" for="__navigation"></label>
+<label class="overlay toc-overlay" for="__toc"></label>
+
+<a class="skip-to-content muted-link" href="#furo-main-content">Skip to content</a>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <span class="icon"><svg><use href="#svg-menu"></use></svg></span>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../../../index.html"><div class="brand">EVA - sala 115</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle" aria-label="Toggle Light / Dark / Auto color theme">
+          <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+          <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../../../index.html">
+  <div class="sidebar-logo-container">
+    <img class="sidebar-logo only-light" src="../../../_static/logo_light.png" alt="Light Logo"/>
+    <img class="sidebar-logo only-dark" src="../../../_static/logo_light.png" alt="Dark Logo"/>
+  </div>
+  
+  
+</a><form class="sidebar-search-container" method="get" action="../../../search.html" role="search">
+  <input class="sidebar-search" placeholder="Búsqueda" name="q" aria-label="Búsqueda">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../intro.html">INTRODUCCIÓN</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../recursos/informacion.html">Información</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../recursos/descargas.html">Descargas 📚</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">CURSOS</span></p>
+<ul class="current">
+<li class="toctree-l1 has-children"><a class="reference internal" href="../../logica8/index.html">Lógica computacional 8</a><input aria-label="Toggle navigation of Lógica computacional 8" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../logica8/periodo01/index.html">Periodo 01</a><input aria-label="Toggle navigation of Periodo 01" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo01/A01.html">A01: Introducción a la lógica</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo01/A02.html">A02: Informática</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo01/A03.html">A03: Lógica computacional</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo01/R01.html">Plan de refuerzo 01</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../logica8/periodo02/index.html">Periodo 02</a><input aria-label="Toggle navigation of Periodo 02" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo02/A01.html">A01: Datos Vs Información</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo02/A02.html">A02: Jerarquía de datos</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo02/R02.html">Plan de refuerzo 02</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../logica8/periodo03/index.html">Periodo 03</a><input aria-label="Toggle navigation of Periodo 03" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo03/A01.html">A01: Variables y sus tipos</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo03/A02.html">A02: Operaciones</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo03/R03.html">Plan de refuerzo 03</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../logica8/periodo04/index.html">Periodo 04</a><input aria-label="Toggle navigation of Periodo 04" class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" role="switch" type="checkbox"/><label for="toctree-checkbox-5"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo04/A01.html">A01: Circuitos lógicos</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo04/A02.html">A02: Álgebra de Boole</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo04/A03.html">A03: Compuertas lógicas</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/periodo04/R04.html">Plan de refuerzo 04</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../../logica8/recursos/index.html">Recursos</a><input aria-label="Toggle navigation of Recursos" class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" role="switch" type="checkbox"/><label for="toctree-checkbox-6"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/recursos/T01.html">T01: Jerarquía de datos</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/recursos/T02.html">T02: Números binarios y circuitos lógicos</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/recursos/T03.html">T03: Álgebra de Boole</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../../logica8/recursos/T04.html">T04: Compuertas lógicas</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1 current has-children"><a class="reference internal" href="../index.html">Informática 10</a><input aria-label="Toggle navigation of Informática 10" checked="" class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" role="switch" type="checkbox"/><label for="toctree-checkbox-7"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul class="current">
+<li class="toctree-l2 has-children"><a class="reference internal" href="../periodo01/index.html">Periodo 01</a><input aria-label="Toggle navigation of Periodo 01" class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" role="switch" type="checkbox"/><label for="toctree-checkbox-8"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../periodo01/A01.html">A01: Historia del INTERNET</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo01/A02.html">A02: Historia de la computación personal</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo01/A03.html">A03: Historia del software</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo01/R01.html">Plan de refuerzo 01</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../periodo02/index.html">Periodo 02</a><input aria-label="Toggle navigation of Periodo 02" class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" role="switch" type="checkbox"/><label for="toctree-checkbox-9"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../periodo02/A01.html">A01: Mantenimiento y electrónica</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo02/A02.html">A02: Redes y Ciberseguridad</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo02/A03.html">A03: Desarrollo y Programación</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo02/R02.html">Plan de refuerzo 02</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../periodo03/index.html">Periodo 03</a><input aria-label="Toggle navigation of Periodo 03" class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" role="switch" type="checkbox"/><label for="toctree-checkbox-10"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../periodo03/A01.html">A01: Búsquedas avanzadas</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo03/A02.html">A02: Elección del tema</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo03/A03.html">A03: Análisis ideas de proyecto 🔴</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo03/A04.html">A04: Marco Teórico</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../periodo03/R03.html">Plan de refuerzo 03</a></li>
+</ul>
+</li>
+<li class="toctree-l2 current has-children"><a class="reference internal" href="index.html">Periodo 04</a><input aria-label="Toggle navigation of Periodo 04" checked="" class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" role="switch" type="checkbox"/><label for="toctree-checkbox-11"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="A01.html">A01: Proyecto de grado</a></li>
+<li class="toctree-l3"><a class="reference internal" href="A02.html">A02: NORMAS APA</a></li>
+<li class="toctree-l3 current current-page"><a class="current reference internal" href="#">A03: Construcción documento anteproyecto</a></li>
+<li class="toctree-l3"><a class="reference internal" href="R04.html">Plan de refuerzo 04</a></li>
+</ul>
+</li>
+<li class="toctree-l2 has-children"><a class="reference internal" href="../recursos/index.html">Recursos</a><input aria-label="Toggle navigation of Recursos" class="toctree-checkbox" id="toctree-checkbox-12" name="toctree-checkbox-12" role="switch" type="checkbox"/><label for="toctree-checkbox-12"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l3"><a class="reference internal" href="../recursos/T01.html">T01: Historia del Internet, la computadora personal y el software</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../recursos/T02.html">T02: Mantenimiento y Electrónica</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../recursos/T03.html">T03: Redes de datos y Ciberseguridad</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../recursos/T04.html">T04: Desarrollo y programación</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../recursos/T05.html">T05: Utilidad de la investigación</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../recursos/T06.html">T06: Proyecto de grado</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../recursos/T07.html">T07: NORMAS APA</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../ofimatica10/index.html">OFIMÁTICA GRADO 10</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../programacion10/index.html">PROGRAMACIÓN GRADO 10</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../ofimatica11/index.html">OFIMÁTICA GRADO 11</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../programacion11/index.html">PROGRAMACIÓN GRADO 11</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">BITÁCORA</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../bitacora/2026.html">2026</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../referencias.html">Referencias</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          <div class="view-this-page">
+  <a class="muted-link" href="../../../_sources/cursos/informatica10/periodo04/A03.md.txt" title="View this page">
+    <svg><use href="#svg-eye"></use></svg>
+    <span class="visually-hidden">View this page</span>
+  </a>
+</div>
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle" aria-label="Toggle Light / Dark / Auto color theme">
+              <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+              <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
+          </label>
+        </div>
+        <article role="main" id="furo-main-content">
+          <section class="tex2jax_ignore mathjax_ignore" id="a03-construccion-documento-anteproyecto">
+<h1>A03: Construcción documento anteproyecto<a class="headerlink" href="#a03-construccion-documento-anteproyecto" title="Link to this heading">¶</a></h1>
+<p>En esta actividad, el estudiante finalmente elabora el documento de ante-proyecto de grado. Desarrolle las siguientes tareas:</p>
+<hr class="docutils" />
+<section id="tarea-01-titulo-del-proyecto-las-4-preguntas-de-indagacion">
+<h2>TAREA 01: Título del proyecto (las 4 preguntas de indagación)<a class="headerlink" href="#tarea-01-titulo-del-proyecto-las-4-preguntas-de-indagacion" title="Link to this heading">¶</a></h2>
+<p>A partir de la idea de proyecto de grado seleccionada, ahora debe construir el título de proyecto de grado. Desarrolle los siguientes puntos:</p>
+<ol class="arabic">
+<li><p>Transcriba el siguiente texto en su cuaderno:</p>
+<div class="tip admonition">
+<p class="admonition-title">¿Cómo construir un título de proyecto?</p>
+<p>Una vez identificado el tema y la idea de proyecto, es necesario sintetizarlo en una frase. Primero se debe responder las siguientes cuatro preguntas de indagación:</p>
+<ul class="simple">
+<li><p><strong>¿Qué se quiere investigar?</strong> (Identificación del trabajo a realizar)</p></li>
+<li><p><strong>¿Cómo se realizará el proyecto?</strong> (Identificación de la Tecnología a usar)</p></li>
+<li><p><strong>¿Donde se realizará el proyecto?</strong> (Lugar dentro de la Institución Educativa)</p></li>
+<li><p><strong>¿Para qué se realizará el proyecto?</strong> (Identificar el aporte, beneficio e importancia de la ejecución de su proyecto = PROBLEMA/SOLUCIÓN )</p></li>
+</ul>
+<hr class="docutils" />
+<p>Con las respuestas obtenidas, realizar una redacción coherente y entendible del tema de proyecto de grado. Se recomienda que el título no supere más de 30 palabras.</p>
+<hr class="docutils" />
+<div class="math-wrapper docutils container">
+<div class="math notranslate nohighlight">
+\[ Qué + Cómo + Dónde + Para\_qué = Título\_Proyecto \]</div>
+</div>
+</div>
+</li>
+<li><p>Transcriba el siguiente ejemplo en su cuaderno:</p>
+<div class="tip admonition">
+<p class="admonition-title">EJEMPLO Construcción de título de proyecto</p>
+<p>En este ejemplo, se construye un <strong>título de proyecto de grado</strong> relacionado con la siguiente idea de proyecto:</p>
+<blockquote>
+<div><p>“Adecuación tecnológica en la sala de informática 115 de la IEJFK”.</p>
+</div></blockquote>
+<p>Primero se responden las 4 preguntas de indagación:</p>
+<hr class="docutils" />
+<ul class="simple">
+<li><p><strong>¿Qué se quiere investigar?</strong> (Identificación del trabajo a realizar)</p></li>
+</ul>
+<blockquote>
+<div><p><strong>RSTA:</strong> Adecuación tecnológica</p>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>¿Cómo se realizará el proyecto?</strong> (Identificación de la Tecnología a usar)</p></li>
+</ul>
+<blockquote>
+<div><p><strong>RSTA:</strong> Software libre GNU/LINUX</p>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>¿Dónde se realizará el proyecto?</strong> (Lugar dentro de la Institución Educativa)</p></li>
+</ul>
+<blockquote>
+<div><p><strong>RSTA:</strong> Sala 115, Institución Educativa John F. Kennedy</p>
+</div></blockquote>
+<ul class="simple">
+<li><p><strong>¿Para qué se realizará el proyecto?</strong> (Identificar el aporte, beneficio e importancia de la ejecución de su proyecto = PROBLEMA/SOLUCIÓN)</p></li>
+</ul>
+<blockquote>
+<div><p><strong>RSTA:</strong> Desarrollo de actividades académicas sin interrupciones o problemas técnicos.</p>
+</div></blockquote>
+<hr class="docutils" />
+<p>Con las respuestas a las 4 preguntas de indagación, ahora se puede construir el título del proyecto de grado.
+En este caso, este sería el título:</p>
+<blockquote>
+<div><p>“<strong>Adecuación tecnológica</strong> usando <strong>software libre</strong> en la <strong>Sala de Informática 115</strong> de la IEJFK para el <strong>desarrollo eficiente de actividades académicas</strong>”.</p>
+</div></blockquote>
+</div>
+</li>
+<li><p>Acorde a su <strong>idea de proyecto</strong>, en su cuaderno responda las 4 preguntas de indagación:</p>
+<ul class="simple">
+<li><p>¿Qué se quiere investigar? (Identificación del trabajo a realizar)</p></li>
+<li><p>¿Cómo se realizará el proyecto? (Identificación de la Tecnología a usar)</p></li>
+<li><p>¿Dónde se realizará el proyecto? (Lugar dentro de la Institución Educativa)</p></li>
+<li><p>¿Para qué se realizará el proyecto? (Identificar el aporte, beneficio e importancia de la ejecución de su proyecto = PROBLEMA/SOLUCIÓN)</p></li>
+</ul>
+</li>
+<li><p>Con las respuestas a las <strong>4 preguntas de indagación</strong>, en su cuaderno construya el <strong>título de su proyecto de grado</strong>.</p></li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="tarea-02-planteamiento-del-problema">
+<h2>TAREA 02: Planteamiento del problema<a class="headerlink" href="#tarea-02-planteamiento-del-problema" title="Link to this heading">¶</a></h2>
+<p>Con la respuesta a la pregunta: <strong>¿Para qué se realizará el trabajo?</strong>, se construye el planteamiento del problema. Desarrolle los siguientes puntos:</p>
+<ol class="arabic">
+<li><p>Transcriba el siguiente texto en su cuaderno:</p>
+<div class="tip admonition">
+<p class="admonition-title">¿Qué es un planteamiento del problema?</p>
+<p>Un <strong>planteamiento del problema</strong>, es una <em>descripción concisa</em> y <em>clara</em> de un <strong>problema</strong> o desafío que necesita ser abordado. Sirve como una hoja de ruta para la resolución de problemas y la toma de decisiones, ayudando a individuos y equipos a definir el alcance de su trabajo y centrarse en los aspectos más críticos del proyecto.</p>
+<p>El <strong>planteamiento del problema</strong> se construye con la respuesta a la pregunta: <strong>¿Para qué se realizará el proyecto?</strong>.</p>
+</div>
+</li>
+<li><p>Lea el siguiente ejemplo:</p>
+<div class="tip admonition">
+<p class="admonition-title">EJEMPLO Construcción del planteamiento del problema</p>
+<p>Volviendo al ejemplo de proyecto de la <strong>sala 115</strong>, teniendo en cuenta que la respuesta a la pregunta: <strong>¿Para qué se realizará el proyecto?</strong>, es la siguiente:</p>
+<blockquote>
+<div><p><em>“Desarrollo de actividades académicas sin interrupciones o problemas técnicos”</em>.</p>
+</div></blockquote>
+<p>Es necesario analizar cómo las interrupciones o los problemas técnicos impactan a los estudiantes y el docente al momento de realizar una clase de informática. Por tanto el <strong>planteamiento del problema</strong> sería el siguiente:</p>
+<blockquote>
+<div><p><em>“La <strong>sala de Informática 115</strong> de la IEJFK tiene <strong>problemas de rendimiento</strong> en sus equipos de cómputo. Esto ha ocurrido en todo el año 2024. Esto genera lentitud, torpeza, malestar y dificultad al momento de realizar prácticas académicas relacionadas con ofimática, programación, lógica computacional y tecnología e informática. El uso de sistemas operativos actuales como Windows 10 u 11 requieren de equipos con hardware actualizado y mayores recursos computacionales, lo cual la Institución Educativa de momento no puede costear. Igualmente, las licencias de software suelen ser demasiado costosas. El uso de sistemas operativos obsoletos como Windows 7, 8 y 8.1 dejarían las máquinas expuestas a cualquier malware. El uso de software pirata recaería en acciones legales contra la Institución. Los equipos de cómputo ya culminaron su vida útil”</em>.</p>
+</div></blockquote>
+<hr class="docutils" />
+<p>RECUERDE QUE EN EL <strong>PLANTEAMIENTO DEL PROBLEMA</strong> NO SE DESCRIBEN SOLUCIONES.</p>
+</div>
+</li>
+<li><p>Acorde a su respuesta a la pregunta: <strong>¿Para qué se realizará el proyecto?</strong>, escriba el <em>planteamiento del problema</em> de su proyecto en su cuaderno. Tenga en cuenta lo siguiente:</p>
+<ul class="simple">
+<li><p>Mínimo una hoja.</p></li>
+<li><p>Sin espacio entre líneas.</p></li>
+<li><p>Tamaño de letra mediana.</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="tarea-03-justificacion">
+<h2>TAREA 03: Justificación<a class="headerlink" href="#tarea-03-justificacion" title="Link to this heading">¶</a></h2>
+<p>Con la respuesta a la pregunta: <strong>¿Para qué se realizará el trabajo?</strong>, también se construye la justificación. Desarrolle los siguientes puntos:</p>
+<ol class="arabic">
+<li><p>Transcriba el siguiente texto en su cuaderno:</p>
+<div class="tip admonition">
+<p class="admonition-title">¿Qué es una justificación?</p>
+<p>La <strong>justificación</strong> en un proyecto es la sección donde se exponen las razones que motivan y dan valor al estudio. Se explica la importancia del tema, su relevancia teórica y práctica, y se argumenta por qué el tema es relevante, qué beneficios aportará, y a quiénes beneficiará.</p>
+<p>La <strong>justificación</strong> también se construye con la respuesta a la pregunta: <strong>¿Para qué se realizará el proyecto?</strong>.</p>
+</div>
+</li>
+<li><p>Lea el siguiente ejemplo:</p>
+<div class="tip admonition">
+<p class="admonition-title">EJEMPLO Construcción de la justificación</p>
+<p>Volviendo al ejemplo de proyecto de la <strong>sala 115</strong>, teniendo en cuenta que la respuesta a la pregunta: <strong>¿Para qué se realizará el proyecto?</strong>, es la siguiente:</p>
+<blockquote>
+<div><p><em>“Desarrollo de actividades académicas sin interrupciones o problemas técnicos”</em>.</p>
+</div></blockquote>
+<p>Es necesario analizar los beneficios que tiene el desarrollo de una clase sin interrupciones por problemas técnicos. Entonces la justificación para este ejemplo sería la siguiente:</p>
+<blockquote>
+<div><p><em>El desarrollo de este proyecto permitiría que los estudiantes generen una autonomía en sus aprendizajes sin depender totalmente del docente al momento de obtener aprendizajes. Este trabajo dá a conocer la importancia y las ventajas que se tiene al usar software de código abierto en el desarrollo de clases de informática, programación, lógica computacional y ofimática especialmente en escenarios donde se tienen equipos de bajos recursos con procesadores de dos nucleos y 2 GB de RAM”</em>.</p>
+</div></blockquote>
+<hr class="docutils" />
+<p>RECUERDE QUE EN LA <strong>JUSTIFICACIÓN</strong> NO SE DESCRIBEN PROBLEMAS.</p>
+</div>
+</li>
+<li><p>Acorde a su respuesta a la pregunta: <strong>¿Para qué se realizará el proyecto?</strong>, escriba la <em>justificación</em> de su proyecto en su cuaderno. Tenga en cuenta lo siguiente:</p>
+<ul class="simple">
+<li><p>Mínimo 3/4 de hoja.</p></li>
+<li><p>Sin espacio entre líneas.</p></li>
+<li><p>Tamaño de letra mediana.</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="tarea-04-objetivos">
+<h2>TAREA 04: Objetivos<a class="headerlink" href="#tarea-04-objetivos" title="Link to this heading">¶</a></h2>
+<ul class="simple">
+<li><p>Con el <strong>Título de proyecto de grado</strong>, se crea el <strong>Objetivo general</strong>.</p></li>
+<li><p>Con el <strong>Objetivo general</strong>, se crean los <strong>objetivos específicos</strong>.</p></li>
+</ul>
+<p>Desarrolle los siguientes puntos:</p>
+<ol class="arabic">
+<li><p>Transcriba el siguiente texto en su cuaderno:</p>
+<div class="tip admonition">
+<p class="admonition-title">¿Qué son los objetivos?</p>
+<p>En un proyecto, se crea UN SOLO OBJETIVO GENERAL y varios OBJETIVOS ESPECÍFICOS.</p>
+<p>Un <strong>OBJETIVO GENERAL</strong> describe la <strong>meta a alcanzar</strong> con el proyecto de investigación. El objetivo general se crea a partir del título del proyecto de grado. El <strong>objetivo general</strong> se refiere al propósito que se quiere alcanzar.</p>
+<p>Los <strong>OBJETIVOS ESPECÍFICOS</strong> se refieren a cómo se va a alcanzar ese propósito. Los <strong>objetivos específicos</strong> se crean a partir del <strong>objetivo general</strong>.</p>
+<hr class="docutils" />
+<p>Tanto los objetivos generales como los objetivos específicos empiezan con un verbo en infinitivo. La siguiente tabla muestra unos ejemplos de los verbos para usar cuando se construye un objetivo general, y también tiene unos ejemplos de verbos para usar cuando se construyen unos objetivos específicos:</p>
+<div class="table-wrapper docutils container">
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Verbos Objetivo General</p></th>
+<th class="head"><p>Verbos Objetivos Específicos</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Mejorar <br/> Reducir <br/> Innovar <br/> Simplificar <br/> Actualizar <br/> Minimizar <br/> Maximizar</p></td>
+<td><p>Diseñar <br/> Construir <br/> Crear <br/> Expandir <br/> Planificar <br/> Implementar <br/> Optimizar <br/> Conseguir <br/> Elaborar <br/> Desarrollar</p></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+</li>
+<li><p>Lea el siguiente ejemplo:</p>
+<div class="tip admonition">
+<p class="admonition-title">EJEMPLO Construcción de los objetivos</p>
+<p>A partir del título del proyecto de grado:</p>
+<blockquote>
+<div><p>“<strong>Adecuación tecnológica</strong> usando <strong>software libre</strong> en la <strong>Sala de Informática 115</strong> de la IEJFK para el <strong>desarrollo eficiente de actividades académicas</strong>”.</p>
+</div></blockquote>
+<p>Se construye el siguiente objetivo general:</p>
+<p class="rubric" id="objetivo-general">OBJETIVO GENERAL</p>
+<blockquote>
+<div><ul class="simple">
+<li><p><em>“<strong>Adecuar</strong> tecnológicamente usando <strong>software libre</strong> la sala de informática 115 de la IEJFK para el desarrollo eficiente de actividades académicas”</em>.</p></li>
+</ul>
+</div></blockquote>
+<hr class="docutils" />
+<p>A partir del <strong>objetivo general</strong> y analizando las actividades por hacer para lograrlo, se crean mínimo cinco objetivos específicos. Estos son:</p>
+<p class="rubric" id="objetivos-especificos">OBJETIVOS ESPECÍFICOS</p>
+<blockquote>
+<div><ul class="simple">
+<li><p><em>“<strong>Organizar</strong> el inmobiliario de la sala de informática 115 para aprovechar el espacio disponible de forma óptima”</em>.</p></li>
+<li><p><em>“<strong>Implementar</strong> un sistema operativo liviano de código abierto que permita que funcionen los equipos portátiles establemente sin bloqueos o interrupciones de sistema”</em>.</p></li>
+<li><p><em>“<strong>Configurar</strong> una red local de tal forma que la conexión a Internet o Intranet no presente problemas”</em>.</p></li>
+<li><p><em>“<strong>Implementar</strong> un sistema de monitoreo y acceso remoto de equipos para ayudar al estudiante en sus dudas más fácilmente”</em>.</p></li>
+<li><p><em>“<strong>Implementar</strong> un portal web básico para que los estudiantes accedan a guías y demás recursos digitales y así minimizar el uso de papel aportando al cuidado del medio ambiente”</em>.</p></li>
+</ul>
+</div></blockquote>
+</div>
+</li>
+<li><p>Acorde al <strong>Título de su proyecto</strong>, escriba el <em>objetivo general</em> y los <em>objetivos específicos</em> de su proyecto en su cuaderno. Tenga en cuenta lo siguiente:</p>
+<ul class="simple">
+<li><p>Mínimo una hoja.</p></li>
+<li><p>Sin espacio entre líneas.</p></li>
+<li><p>Tamaño de letra mediana.</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="tarea-05-pregunta-problematizadora">
+<h2>TAREA 05: Pregunta problematizadora<a class="headerlink" href="#tarea-05-pregunta-problematizadora" title="Link to this heading">¶</a></h2>
+<p>Con el <strong>Título de proyecto de grado</strong>, se crea la <strong>Pregunta problematizadora</strong>. Desarrolle los siguientes puntos:</p>
+<ol class="arabic">
+<li><p>Transcriba en su cuaderno el siguiente texto:</p>
+<div class="tip admonition">
+<p class="admonition-title">¿Qué es la pregunta problematizadora?</p>
+<p>La pregunta problematizadora permite establecer claramente el problema a resolver, mantenerlo enfocado y con un propósito. Es la base sobre la cual se construye todo el proyecto. Por lo tanto, es mportante aprender a redactarla adecuadamente.</p>
+</div>
+</li>
+<li><p>Lea el siguiente ejemplo:</p>
+<div class="tip admonition">
+<p class="admonition-title">EJEMPLO Construcción de la pregunta problematizadora</p>
+<p>A partir del título del proyecto de grado:</p>
+<blockquote>
+<div><p>“<strong>Adecuación tecnológica</strong> usando <strong>software libre</strong> en la <strong>Sala de Informática 115</strong> de la IEJFK para el <strong>desarrollo eficiente de actividades académicas</strong>”.</p>
+</div></blockquote>
+<p>Se construye la siguiente pregunta problematizadora:</p>
+<blockquote>
+<div><p><em>“¿Usando herramientas de <strong>software libre</strong> en la <strong>sala 115</strong>, será posible adecuar un <strong>espacio tecnológico</strong> que permita a estudiantes y profesores estudiar de forma eficiente?”</em>.</p>
+</div></blockquote>
+</div>
+</li>
+<li><p>Acorde al <strong>Título de su proyecto</strong>, escriba la <strong>pregunta problematizadora</strong> de su proyecto en su cuaderno. Tenga en cuenta lo siguiente:</p>
+<ul class="simple">
+<li><p>Mínimo 1/4 de hoja.</p></li>
+<li><p>Sin espacio entre líneas.</p></li>
+<li><p>Tamaño de letra mediana.</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="tarea-06-marco-teorico">
+<h2>TAREA 06: Marco teórico<a class="headerlink" href="#tarea-06-marco-teorico" title="Link to this heading">¶</a></h2>
+<ol class="arabic">
+<li><p>En su cuaderno transcriba el siguiente texto:</p>
+<div class="tip admonition">
+<p class="admonition-title">¿Qué es el marco teórico?</p>
+<p>Un marco teórico esta compuesto por:</p>
+<p><strong>Marco conceptual:</strong> Es la representación explicativa de los conceptos clave y las relaciones entre ellos que se utilizan en una investigación.</p>
+<p><strong>Marco de antecedentes:</strong> Representa y analiza las investigaciones previas relacionadas con el tema que se está estudiando.</p>
+<p><strong>Marco legal:</strong> Proporciona un contexto jurídico que regula diversas actividades y relaciones en la sociedad, asegurando que se respeten los derechos y deberes de los ciudadanos. Todo ello relacionado con el proyecto de investigación.</p>
+</div>
+</li>
+<li><p>Identifique y recuerde los contenidos que desarrolló en la plantilla: <a class="reference download internal" download="" href="../../../_downloads/0f0a6f4db195087fcc5f04311d81d332/ESQUEMA_MARCO_TEORICO.odt"><span class="xref download myst">ESQUEMA MARCO TEÓRICO</span></a> y con esa información construir <em>más adelante</em> el marco teórico de su documento del proyecto.</p></li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="tarea-07-aspectos-metodologicos">
+<h2>TAREA 07: Aspectos metodológicos<a class="headerlink" href="#tarea-07-aspectos-metodologicos" title="Link to this heading">¶</a></h2>
+<p>Los <strong>aspectos metodológicos</strong> es la planeación del desarrollo del proyecto. Es el paso a paso que usted seguirá para desarrollar el proyecto. Desarrolle los siguientes puntos:</p>
+<ol class="arabic">
+<li><p>Transcriba el siguiente texto en su cuaderno:</p>
+<div class="tip admonition">
+<p class="admonition-title">¿Qué son los aspectos metodológicos?</p>
+<p>Los aspectos metodológicos se refiere al “cómo” se llevará a cabo la investigación. Incluyen la descripción detallada de los métodos, técnicas y herramientas que se utilizarán para recopilar, analizar e interpretar los datos. En resumen, los aspectos metodológicos son la “hoja de ruta” que guía el estudio, asegurando que la investigación sea rigurosa, válida y confiable. Los aspectos metodológicos se componen de las siguientes secciones:</p>
+<ul class="simple">
+<li><p><strong>FASES DEL PROYECTO:</strong> Describe cada una de las fases que tendrá el proyecto para ser ejecutadas de forma serial o en algunos casos, de forma paralela. Cada fase debe especificar su <strong>tiempo de ejecución</strong>. Cada fase debe tener una <strong>descripción</strong> que especifique en detalle las <strong>tareas a realizar</strong>. Las tareas deben estar relacionadas con los <strong>objetivos específicos</strong>. Las dos últimas fases deben tratar el <strong>análisis de resultados</strong> y la <strong>creación del documento</strong> del proyecto.</p></li>
+<li><p><strong>CRONOGRAMA DE ACTIVIDADES:</strong> Con las <strong>fases del proyecto</strong>, se crea el cronograma de actividades. Es una tabla que especifica las fechas en las que el proyecto de grado será desarrollado.</p></li>
+<li><p><strong>TÉCNICAS e INSTRUMENTOS:</strong> En este elemento se describe el inventario o elementos necesarios para desarrollar el proyecto. Cada elemento debe tener una descripción con sus características y el cómo se usaría en cada fase del proyecto.</p></li>
+<li><p><strong>POBLACIÓN:</strong> En esta sección se hace una descripción del personal humano que de alguna forma participa en la ejecución del proyecto.</p></li>
+</ul>
+</div>
+</li>
+<li><p>Lea el siguiente ejemplo:</p>
+<div class="tip admonition">
+<p class="admonition-title">EJEMPLO construcción de los aspectos metodológicos</p>
+<p class="rubric" id="fases-del-proyecto">Fases del proyecto</p>
+<ul class="simple">
+<li><p><strong>FASE 01:</strong> Organización de espacios en la sala 115. <span class="guilabel">DURACIÓN: 1 mes</span></p></li>
+<li><p><strong>FASE 02:</strong> Selección del sistema operativo LINUX. <span class="guilabel">DURACIÓN: 3 meses</span></p></li>
+<li><p><strong>FASE 03:</strong> Configuración de red de área local. <span class="guilabel">DURACIÓN: 1 mes</span></p></li>
+<li><p><strong>FASE 04:</strong> Pruebas en sistema de monitoreo y acceso remoto. <span class="guilabel">DURACIÓN: 2 meses</span></p></li>
+<li><p><strong>FASE 05:</strong> Implementación del portal web. <span class="guilabel">DURACIÓN: 1 mes</span></p></li>
+<li><p><strong>FASE 06:</strong> Análisis de resultados. <span class="guilabel">DURACIÓN: 10 meses</span></p></li>
+<li><p><strong>FASE 07:</strong> Creación del documento de proyecto de grado. <span class="guilabel">DURACIÓN: 1 mes</span></p></li>
+</ul>
+<hr class="docutils" />
+<p class="rubric" id="cronograma-de-actividades">Cronograma de actividades</p>
+<figure class="align-center" id="id1">
+<a class="reference internal image-reference" href="../../../_images/image022.png"><img alt="../../../_images/image022.png" src="../../../_images/image022.png" style="width: 550px;" />
+</a>
+<figcaption>
+<p><span class="caption-text">Cronograma de actividades</span><a class="headerlink" href="#id1" title="Link to this image">¶</a></p>
+</figcaption>
+</figure>
+<hr class="docutils" />
+<p class="rubric" id="tecnicas-e-instrumentos">Técnicas e instrumentos</p>
+<ul class="simple">
+<li><p>10 portátiles marca HP.</p></li>
+<li><p>6 portátiles y 4 equipos de escritorio marca LENOVO.</p></li>
+<li><p>1 switch de 24 puertos TCP/IP.</p></li>
+<li><p>1 SMART TV marca CAIXUN.</p></li>
+<li><p>10 mesas dobles.</p></li>
+<li><p>2 mesas simples.</p></li>
+<li><p>1 escritorio.</p></li>
+<li><p>33 sillas.</p></li>
+<li><p>Software VEYON, XAMPP y OS LINUX FEDORA.</p></li>
+</ul>
+<hr class="docutils" />
+<p class="rubric" id="poblacion">Población 👫</p>
+<blockquote>
+<div><p>“Este proyecto se desarrolla en la <strong>Institución Educativa John F. Kennedy</strong> ubicada en el municipio de Puerto Boyacá (Boyacá) en el barrio centro con dirección <strong>carrera 3A N° 7-01</strong>. Los estudiantes en su mayoría provienen de barrios como Pueblo Nuevo, Chambacú, el Palmar, Brisas de magdalena, el Progreso y el Barrio 10 de enero. Dentro del grupo poblacional se encuentran estudiantes indígenas, afrodescendientes, y estudiantes con necesidades educativas especiales”.</p>
+</div></blockquote>
+</div>
+</li>
+<li><p>En su cuaderno escriba los <strong>aspectos metodológicos</strong> de su proyecto. Tenga en cuenta lo siguiente:</p>
+<ul class="simple">
+<li><p>Describa las <strong>fases de su proyecto</strong>. Tenga en cuenta que cada fase tiene una <strong>descripción</strong> y un <strong>tiempo límite</strong> para desarrollarse.</p></li>
+<li><p>Con las <strong>fases de su proyecto</strong>, describa el <strong>cronograma de actividades</strong> de su proyecto. Tenga en cuenta que rango de las fechas debe coincidir con los tiempos establecidos.</p></li>
+<li><p>Con las <strong>fases de su proyecto</strong>, describa las <strong>técnicas e instrumentos</strong> de su proyecto. Tenga en cuenta que cada elemento del inventario, debe tener una descripción del por qué y el cómo se usará en la ejecución de cada fase del proyecto.</p></li>
+<li><p>Finalmente describa la <strong>población</strong> de su proyecto. Se debe especificar de que forma dicha población participa en el desarrollo de su proyecto.</p></li>
+</ul>
+</li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="tarea-08-referencias">
+<h2>TAREA 08: REFERENCIAS<a class="headerlink" href="#tarea-08-referencias" title="Link to this heading">¶</a></h2>
+<p>Las referencias son las fuentes de información que el estudiante consultó para poder hacer su proyecto. Desarrolle los siguientes puntos:</p>
+<ol class="arabic">
+<li><p>Transcriba el siguiente texto:</p>
+<div class="tip admonition">
+<p class="admonition-title">¿Qué son las referencias?</p>
+<p>Las <strong>referencias</strong> en un proyecto de grado son una lista detallada de todas las fuentes (libros, artículos, páginas web, etc.) que el autor ha consultado y utilizado para sustentar su investigación. Funcionan como un reconocimiento a las ideas y trabajos de otros, y permiten a los lectores verificar y profundizar en la información presentada. Son esenciales para:</p>
+<ol class="arabic simple">
+<li><p><strong>Evitar el plagio</strong>.</p></li>
+<li><p><strong>Dar credibilidad</strong> al trabajo.</p></li>
+<li><p><strong>Facilitar la investigación</strong> de otros interesados en el tema.</p></li>
+</ol>
+<p>En resumen, las referencias son la <strong>“bibliografía”</strong> que respalda y contextualiza el proyecto de grado.</p>
+</div>
+</li>
+<li><p>Lea el siguiente ejemplo:</p>
+<div class="tip admonition">
+<p class="admonition-title">EJEMPLO construcción de las referencias (TUTORIAL)</p>
+<p>Para la construcción de las referencias del proyecto, inicialmente se deben tener algún enlace de consulta. Por ejemplo se tiene el siguiente enlace:</p>
+<p><a class="reference external" href="https://economipedia.com/definiciones/mantenimiento.html" rel="noreferer noopener" target="_blank">https://economipedia.com/definiciones/mantenimiento.html</a></p>
+<p>Para referenciar este enlace (cumpliendo las normas APA), se hace uso de la siguiente herramienta en línea: <a class="reference external" href="https://app.bibguru.com/" rel="noreferer noopener" target="_blank">BIBGURU</a></p>
+<figure class="align-center" id="id2">
+<a class="reference internal image-reference" href="../../../_images/image032.png"><img alt="../../../_images/image032.png" src="../../../_images/image032.png" style="width: 550px;" />
+</a>
+<figcaption>
+<p><span class="caption-text">App Web BIBGURU</span><a class="headerlink" href="#id2" title="Link to this image">¶</a></p>
+</figcaption>
+</figure>
+<p>Es necesario seleccionar el estilo en la opción: <strong>APA - 7th edition.</strong> Posteriormente <strong>s</strong>e debe copiar y pegar el enlace en el cuadro donde dice:</p>
+<blockquote>
+<div><p><strong>Paste URL of the website you want to cite</strong></p>
+</div></blockquote>
+<p>Posteriormente aparecerá una ventana donde muestra si desea crear la referencia y dar clic en <span class="guilabel">+ Add</span>.</p>
+<figure class="align-center">
+<a class="reference internal image-reference" href="../../../_images/image042.png"><img alt="../../../_images/image042.png" src="../../../_images/image042.png" style="width: 560px;" />
+</a>
+</figure>
+<p><br/> Entonces se creará la siguiente referencia:</p>
+<blockquote>
+<div><p><strong>Westreicher, G. (2020, December 14). Mantenimiento: qué es y por qué es importante para la empresa. Economipedia. https://economipedia.com/definiciones/mantenimiento.html</strong></p>
+</div></blockquote>
+</div>
+</li>
+<li><p>Identifique y recuerde los contenidos (<strong>marco de antecedentes</strong>) que desarrolló en la plantilla: <a class="reference download internal" download="" href="../../../_downloads/0f0a6f4db195087fcc5f04311d81d332/ESQUEMA_MARCO_TEORICO.odt"><span class="xref download myst">ESQUEMA_MARCO_TEORICO</span></a> y tenga presente dicha información para aplicar mas adelante en la construcción de las <strong>referencias del documento de su proyecto de grado</strong>.</p></li>
+</ol>
+</section>
+<hr class="docutils" />
+<section id="tarea-09-evaluacion">
+<h2>TAREA 09: EVALUACIÓN<a class="headerlink" href="#tarea-09-evaluacion" title="Link to this heading">¶</a></h2>
+<div class="danger admonition">
+<p class="admonition-title">Construcción del <strong>documento del ante-proyecto</strong></p>
+<p>En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad. Desarrolle los siguientes puntos:</p>
+<ol class="arabic simple">
+<li><p>Descargue los siguientes archivos:</p>
+<ul class="simple">
+<li><p><a class="reference download internal" download="" href="../../../_downloads/01d422384c986fa6396bb8a86f8b19c1/Plantilla_ANTEPROYECTO.odt"><span class="xref download myst">Plantilla_ANTEPROYECTO.odt</span></a></p></li>
+<li><p><a class="reference download internal" download="" href="../../../_downloads/5b26bb925812dd40eca3ef8f4b0dc475/ANTEPROYECTO_EJEMPLO_SALA115.pdf"><span class="xref download myst">ANTEPROYECTO_EJEMPLO_SALA115.pdf</span></a></p></li>
+</ul>
+</li>
+<li><p>Con los apuntes desarrollados en su cuaderno, diligencie la <strong>Plantilla_ANTEPROYECTO.odt</strong>.</p></li>
+<li><p>Si tiene dudas, consultar el proyecto de ejemplo: <strong>ANTEPROYECTO_EJEMPLO_SALA115.pdf</strong>.</p></li>
+<li><p>Enviar la plantilla desarrollada al correo electrónico:</p>
+<ul class="simple">
+<li><p><strong>Email:</strong> <a class="reference external" href="mailto:camilo&#46;fonseca&#37;&#52;&#48;jfkennedy&#46;edu&#46;co" rel="noreferer noopener" target="_blank">camilo<span>&#46;</span>fonseca<span>&#64;</span>jfkennedy<span>&#46;</span>edu<span>&#46;</span>co</a></p></li>
+<li><p><strong>Asunto:</strong> Documento proyecto de grado</p></li>
+</ul>
+</li>
+</ol>
+</div>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="R04.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Plan de refuerzo 04</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="A02.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">A02: NORMAS APA</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2026, Julian Camilo Fonseca Romero, IE John F. Kennedy, Puerto Boyacá (Boyacá), Colombia.
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">A03: Construcción documento anteproyecto</a><ul>
+<li><a class="reference internal" href="#tarea-01-titulo-del-proyecto-las-4-preguntas-de-indagacion">TAREA 01: Título del proyecto (las 4 preguntas de indagación)</a></li>
+<li><a class="reference internal" href="#tarea-02-planteamiento-del-problema">TAREA 02: Planteamiento del problema</a></li>
+<li><a class="reference internal" href="#tarea-03-justificacion">TAREA 03: Justificación</a></li>
+<li><a class="reference internal" href="#tarea-04-objetivos">TAREA 04: Objetivos</a></li>
+<li><a class="reference internal" href="#tarea-05-pregunta-problematizadora">TAREA 05: Pregunta problematizadora</a></li>
+<li><a class="reference internal" href="#tarea-06-marco-teorico">TAREA 06: Marco teórico</a></li>
+<li><a class="reference internal" href="#tarea-07-aspectos-metodologicos">TAREA 07: Aspectos metodológicos</a></li>
+<li><a class="reference internal" href="#tarea-08-referencias">TAREA 08: REFERENCIAS</a></li>
+<li><a class="reference internal" href="#tarea-09-evaluacion">TAREA 09: EVALUACIÓN</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script src="../../../_static/documentation_options.js?v=e2bb6099"></script>
+    <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+    <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+    <script src="../../../_static/scripts/furo.js?v=46bd48cc"></script>
+    <script src="../../../_static/translations.js?v=f85f4cfb"></script>
+    <script src="../../../_static/design-tabs.js?v=f930bc37"></script>
+    <script>window.MathJax = {"options": {"processHtmlClass": "tex2jax_process|mathjax_process|math|output_area"}}</script>
+    <script defer="defer" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    </body>
+</html>

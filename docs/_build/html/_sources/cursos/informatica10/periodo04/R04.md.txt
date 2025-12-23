@@ -1,0 +1,6 @@
+# Plan de refuerzo 04
+
+:::{admonition} EVALUACIÓN: Entrega del **documento del anteproyecto**
+:class: danger
+Con todo el trabajo realizado en el cuarto periodo, entregar el **documento del anteproyecto**.
+:::

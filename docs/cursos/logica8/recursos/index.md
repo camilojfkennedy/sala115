@@ -1,6 +1,6 @@
 # Recursos
 
-En esta sección encuentra los recursos necesarios para el curso.
+En esta sección encuentra los recursos necesarios para el desarrollo del curso.
 
 :::{toctree}
 :maxdepth: 2

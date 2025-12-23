@@ -1,0 +1,77 @@
+# A03: Análisis ideas de proyecto 🔴 
+
+En esta actividad, el estudiante reflexiona sobre la importancia de la investigación para elegir una idea de proyecto. Desarrolle las siguientes tareas:
+
+:::{admonition} AVISO
+:class: note
+Para desarrollar esta actividad, acceda a la siguiente teoría:
+
+[UTILIDAD de la investigación](../recursos/T05.md)
+:::
+
+---
+## TAREA 01: ¿Para qué sirve investigar?
+
+1. En su cuaderno responda las siguientes preguntas:
+    - ¿Cuales son cuatro posibles razones “no acertadas” para realizar una investigación? Indique porque no serían acertadas.
+    - ¿Cuál es la verdadera razón para investigar?
+    - ¿En qué escenarios se pueden generar ideas de investigación?
+    - ¿Qué diferencia hay entre investigación informal e investigación científica?
+2. En su cuaderno escriba 4 ejemplos de problemas de la humanidad, que fueron solucionados gracias a la investigación científica. 
+3. En su cuaderno dibuje el siguiente diagrama y luego complete los círculos vacíos con sinónimos de investigar:
+
+:::{figure} ./recursos/image01.png
+:align: center
+:width: 400
+
+Sinónimos investigar
+:::
+
+4. En su cuaderno indique las recomendaciones a tener en cuenta al momento de realizar una búsqueda eficiente en INTERNET.
+
+---
+## TAREA 02: Análisis ideas de proyecto 💡
+
+1. ACCEDA a las ideas de proyectos del **tema seleccionado previamente**:
+    - [Ideas Mantenimiento y Electrónica](../recursos/T02.md#ideas-de-proyecto-)
+    - [Ideas Redes de Datos y Ciberseguridad](../recursos/T03.md#ideas-de-proyecto-)
+    - [Ideas Desarrollo y Programación](../recursos/T04.md#ideas-de-proyecto-)
+2. LEA todas las ideas de proyecto (SOLO LAS IDEAS DE SU TEMA) y por cada una, responda las siguientes preguntas:
+    - **¿Para qué podría servir esa idea en el colegio?** Explique cómo la idea daría solución a problemáticas que hay actualmente en la Institución Educativa.
+    - **¿Cómo podría ejecutarse dicha idea en el colegio?** Explique que tecnología y recursos se necesitan para desarrollar la idea en la Institución Educativa.
+    - **¿En que lugar del colegio podría ejecutarse la idea?** Identifique en que espacios se podría ejecutar la idea. Espacios como: Salones, Salas de Informática, Cafetería, Restaurante, Pasillos, Coordinación, Secretaría, etc.
+    - **¿Cuanto tiempo necesitaría para desarrollar la idea?** Tenga en cuenta los tiempos de aprendizaje de la tecnología de la idea, la ejecución de la idea, el análisis de resultados de la idea y la creación del documento final de proyecto de grado de la idea.
+    - **¿Cuando dinero podría necesitar para desarrollar la idea?** Tenga en cuenta los gastos de luz, transporte, acceso a Internet, elementos de oficina y el precio de la tecnología a ser usada en la idea.
+
+    :::{admonition} EJEMPLO: Respuestas de estudiante
+    :class: tip
+
+    **TEMA:** REDES <br/>
+    **IDEA:** Diseño e implementación de una INTRANET para sala de informática
+    
+    - **¿Para qué podría servir esa idea en el colegio?**
+    Esta idea es útil para aquellos docentes que requieran NO DEPENDER TOTALMENTE de INTERNET para desarrollar sus actividades académicas.
+    - **¿Cómo podría ejecutarse dicha idea en el colegio?**
+    Para desarrollar esta idea se necesitan conocimientos en redes, software ofimático. Se necesita tener unos equipos y un servidor conectados a una red local. El servidor debe ser accesible por todos los equipos. El servidor debe alojar todos los recursos académicos como guías, talleres, herramientas, etc.
+    - **¿En que lugar del colegio podría ejecutarse la idea?**
+    Esta idea puede desarrollarse en cualquier sala de informática de la institución educativa. Todas las salas cuentan con cableado estructurado y acceso a INTERNET.
+    - **¿Cuanto tiempo necesitaría para desarrollar la idea?**
+    La ejecución de esta idea tomaría un semestre académico. Los primeros meses para estudiar temas relacionados con redes y cableado estructurado. Luego es necesario hacer el plano de la sala de informática. Configurar el servidor con el acceso a los recursos académicos. Se necesita tiempo para realizar las pruebas de acceso y analizar los resultados cuando el docente de clase.
+    - **¿Cuando dinero podría necesitar para desarrollar la idea?**
+    La luz, los equipos y el acceso a INTERNET los tiene el colegio. Se necesita calcular el precio de las hojas para imprimir el trabajo y los transportes para trabajar en contra-jornada.
+
+    :::
+
+---
+## TAREA 03: EVALUACIÓN
+
+:::{admonition} ELECCIÓN DE IDEA DE PROYECTO 🔴
+:class: danger
+
+1. De las ideas de proyecto analizadas, SELECCIONE UNA IDEA PARA SU PROYECTO DE GRADO. (NO SELECCIONE LA IDEA AL AZAR).
+
+> - *"Tome una buena decisión..."*
+
+2. TRANSCRIBA LA IDEA DE PROYECTO EN EL CENTRO DE UNA HOJA COMPLETA EN SU CUADERNO.
+
+:::

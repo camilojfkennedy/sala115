@@ -1,7 +1,15 @@
-# INFORMÁTICA GRADO 10
+# Informática 10
 
-Acceda al curso de informática de grado décimo
+Bienvenido al curso informática de grado décimo.
 
-## Acceso
+Acceda a las actividades según el periodo.
 
-Acceda al curso
+:::{toctree}
+:maxdepth: 3
+
+periodo01/index.md
+periodo02/index.md
+periodo03/index.md
+periodo04/index.md
+recursos/index.md
+:::

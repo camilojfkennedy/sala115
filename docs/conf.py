@@ -41,6 +41,7 @@ language = 'es'
 
 html_theme = 'furo'
 html_static_path = ['_static']
+html_title = "EVA - sala 115"
 
 pygments_style = "sphinx"
 pygments_dark_style = "monokai"

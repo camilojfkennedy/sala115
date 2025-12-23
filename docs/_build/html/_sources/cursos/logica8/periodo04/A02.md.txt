@@ -3,6 +3,8 @@
 En esta actividad, el estudiante aprende sobre el álgebra de Boole. Desarrolle las siguientes tareas:
 
 :::{admonition} AVISO
+:class: note
+
 Para resolver esta actividad, acceda a la teoría:
 
 - [ÁLGREBRA DE BOOLE](../recursos/T03.md)
