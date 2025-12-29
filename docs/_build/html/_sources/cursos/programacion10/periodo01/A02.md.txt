@@ -1,0 +1,80 @@
+# A02: Algoritmos
+
+En esta actividad el estudiante conoce el concepto de algoritmo.
+
+:::{admonition} AVISO
+:class: note
+
+Para desarrollar esta actividad, acceda a la siguiente teoría:
+
+[Algoritmos](../recursos/T02.md)
+:::
+
+---
+## TAREA 01: ¿Qué son los algoritmos?
+
+1. En las siguientes frases indique si es **falso** o **verdadero** y por qué.
+    - Un algoritmo está compuesto por elementos informáticos que componen una secuencia organizacional únicamente _______.
+    - Un algoritmo son un conjunto de instrucciones que le dicen a una computadora o un ser humano como realizar una tarea específica, dichas instrucciones pueden estar escritas en código o lenguaje natural. _______.
+    - Un algoritmo se define como cuadros de funcionamiento infinitos que permiten y tienen como propósito reducir la información. _______.
+
+
+---
+## TAREA 02: Tipos del algoritmos
+
+1. En su cuaderno relacione con líneas los siguientes cuadros según corresponda su significado:
+
+:::{figure} ./recursos/image05.png
+:align: center
+:width: 500
+
+Cuadro comparativo
+:::
+
+---
+## TAREA 03: Diferencia entre un programa y un software
+
+1. En su cuaderno responda:
+    - ¿Qué es software?
+    - ¿Cuál es la diferencia entre un software de sistema y software de aplicación?
+    - ¿Cómo se relacionan un software y un programa?
+2. Dibuje una tabla en su cuaderno la cual describa:
+    - 5 ejemplos de software de tipo sistema.
+    - 5 ejemplos de software de tipo aplicación.
+
+---
+## TAREA 04: Clasificación de algoritmos
+
+1. Escriba la siguiente tabla en su cuaderno y clasifique los algoritmos según corresponda:
+
+:::{table}
+:align: left
+EJEMPLO|Clasificación|¿Por qué?
+-|-|-
+Instrucciones para llegar a un lugar||
+Instrucciones con medición de tiempo para llegar a un lugar||
+A=10,B=12<br/>C=A+B||
+Microsoft Word||
+LINUX||
+`print("Digite su nombre")`||
+PASO 01: Abra la bandeja de entrada<br/>PASO 02: Inserte hojas tamaño carta<br/>PASO 03: Cierre la bandeja de entrada||
+BIOS||
+**CANVA**||
+LibreOffice Writer||
+Control de vuelo con API de GOOGLE||
+Sensor Temperatura con ARDUINO||
+Instrucciones corte cabello||
+:::
+
+---
+## TAREA 05: EVALUACIÓN
+
+:::{admonition} Presentación del cuaderno y sustentación
+:class: danger
+
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+:::
+

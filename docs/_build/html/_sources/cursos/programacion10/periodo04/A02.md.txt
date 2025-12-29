@@ -1,0 +1,174 @@
+# A02: Operaciones en la consola interactiva PYTHON
+
+En esta actividad se aplica el conocimiento teórico de variables en la consola interactiva de PYTHON.
+
+Desarrolle las siguientes tareas:
+
+---
+## TAREA 01: Variables en PYTHON
+
+1. Abra una terminal de sistema e ingrese a la consola interactiva de PYTHON.
+2. CREAR diez variables con los siguientes nombres de variables y sus datos:
+    - nombre (**tipo STRING**)
+    - apellido (**tipo STRING**)
+    - edad (**tipo ENTERO**)
+    - día de nacimiento (**TIPO ENTERO**)
+    - mes de nacimiento (**TIPO ENTERO**)
+    - año de nacimiento (**TIPO ENTERO**)
+    - grado (**TIPO ENTERO**)
+    - curso (**TIPO STRING**)
+    - deporte (**TIPO STRING**)
+    - hobby (**TIPO STRING**).
+        :::{admonition} EJEMPLO
+        :class: tip
+        ```python
+        >>> nombre = "Camilo"
+        >>> apellido = "Fonseca"
+        >>> edad = 35
+        >>> dia_nacimiento = 4
+        >>> mes_nacimiento = 12
+        >>> año_nacimiento = 1989
+        >>> grado = 11
+        >>> curso = "A"
+        >>> deporte = "natacion"
+        >>> hobby = "videojuegos"
+        ```
+        :::
+3. En consola muestre cada uno de los contenidos de la variables anteriores con la función print(). EJECUTE cada instrucción con la función print().
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> print(nombre)
+    >>> Camilo
+    >>> print(apellido)
+    >>> Fonseca
+    >>> print(edad)
+    >>> 35
+    >>> print(dia_nacimiento)
+    >>> 4
+    >>> print(mes_nacimiento)
+    >>> 12
+    >>> print(año_nacimiento)
+    >>> 1989
+    >>> print(grado)
+    >>> 11
+    >>> print(curso)
+    >>> A
+    >>> print(deporte)
+    >>> natacion
+    >>> print(hobby)
+    >>> videojuegos
+    ```
+    :::
+4. En los siguientes pasos creará variables de tipo STRING para dar mensajes en consola y mostrar contenidos de otras variables.
+5. CREE una variable de nombre **mensaje00** y de tipo STRING para saludar.
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> mensaje00 = "Buenas tardes"
+    ```
+    :::
+6. CREE una variable de nombre **mensaje01** y de tipo STRING para presentarse con su nombre y apellido.
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> mensaje01 = f"Mi nombre es: {nombre} {apellido}"
+    ```
+    :::
+    :::{admonition} ¿Cómo mostrar el valor de una variable en otra variable?
+    :class: hint
+    - Es necesario agregar la letra **f**, antes de las primeras comillas dobles en el valor de la variable de tipo **STRING**.
+    - Las variables a mostrar van dentro de llaves: `{}`
+    Por ejemplo:
+    ```python
+    >>> color = "azul"
+    >>> mensaje = f"el cielo es de color {color}"
+    >>> print(mensaje)
+    >>> el cielo es de color azul
+    ```
+    :::
+7. CREE una variable de nombre **mensaje02** y de tipo STRING para mostrar su edad.
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> mensaje02 = f"Tengo {edad} años de edad"
+    ```
+    :::
+8. CREE una variable de nombre **mensaje03** y de tipo STRING para mostrar su fecha de nacimiento.
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> mensaje03 = f"Nací el día {dia_nacimiento} del mes {mes_nacimiento} del año {año_nacimiento}"
+    ```
+    :::
+9. CREE una variable de nombre **mensaje04** y de tipo STRING para mostrar el grado que cursa.
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> mensaje04 = f"Estoy en el grado {grado}{curso}"
+    ```
+    :::
+10. CREE una variable de nombre **mensaje05** y de tipo STRING para mostrar el deporte que practica.
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> mensaje05 = f"Practico el deporte: {deporte}"
+    ```
+    :::
+11. CREE una variable de nombre **mensaje06** y de tipo STRING para mostrar su hobby.
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> mensaje06 = f"En mi tiempo libre practico: {hobby}"
+    ```
+    :::
+12. Finalmente muestre cada uno de los valores de las variables de los mensajes que acabó de crear. Para mostrarlos en pantalla use la función print().
+    :::{admonition} EJEMPLO
+    :class: tip
+    ```python
+    >>> print(mensaje01)
+    >>> Mi nombre es: Camilo Fonseca
+    >>> print(mensaje02)
+    >>> Tengo 35 años de edad
+    >>> print(mensaje03)
+    >>> Naci el día 4 del mes 12 del año 1989
+    >>> print(mensaje04)
+    >>> Estoy en el grado 11A
+    >>> print(mensaje05)
+    >>> Practico el deporte: natación
+    >>> print(mensaje06)
+    >>> En mi tiempo libre practico: videojuegos
+    ```
+    :::
+
+---
+## TAREA 02: EVALUACIÓN
+
+:::{admonition} Actividad práctica (99 minutos)
+:class: attention
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+
+El estudiante en **99 minutos** demuestra sus conocimientos en el uso de la función `print()`, creación de variables y su acceso. Para esto el estudiante debe realizar el siguiente ejercicio:
+
+> Con las instrucciones que previamente escribió para orientar al extranjero, usar la consola interactiva de PYTHON para mostrar dichas instrucciones.
+>
+
+Tenga en cuenta lo siguiente:
+
+- Cree una serie de variables que contengan direcciones (ejemplo: Cra 3A # 7-01). El nombre de cada variable debe ser **direccion01**, **direccion02** y así por cada dirección.
+- Cree una serie de variables que contengan cada una de las orientaciones. El nombre de cada variable debe ser **orientacion01**, **orientacion02** y así por cada orientación.
+- Cada variable de **dirección** debe ser nombrada en una variable de **orientación**.
+- Al final muestre cada una de las orientaciones con la función **print()**
+
+````{admonition} EJEMPLO
+:class: tip
+```python
+>>> direccion01 = "Calle 28, Carrera 5"
+>>> direccion02 = "Calle 28"
+>>> orientacion01 = f"salga del hospital por la {direccion01}"
+>>> orientacion02 = f"camine 2 cuadras hacia el norte por {direccion02}"
+>>> print(orientacion01)
+>>> print(orientacion02)
+```
+````
+:::

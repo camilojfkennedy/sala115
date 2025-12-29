@@ -1,6 +1,6 @@
 # Informática 10
 
-Bienvenido al curso informática de grado décimo.
+Bienvenido al curso de informática de grado décimo.
 
 Acceda a las actividades según el periodo.
 

@@ -10,3 +10,5 @@
 - *¿Qué es Investigar?* (2023, August 10). UNICLA; Universidad Contemporánea de las Américas. [https://unicla.edu.mx/blog-unicla/academico/que-es-investigar/](https://unicla.edu.mx/blog-unicla/academico/que-es-investigar/)
 - *Tomando Buenas Decisiones*. (1996, February 25). Ubalt.edu. [https://home.ubalt.edu/ntsbarsh/opre640S/spanish.htm](https://home.ubalt.edu/ntsbarsh/opre640S/spanish.htm)
 - Scala. (2023, October 23). *Claves para realizar una buena investigación*. 🟢 UNIMINUTO Virtual. [https://home.ubalt.edu/ntsbarsh/opre640S/spanish.htm](https://home.ubalt.edu/ntsbarsh/opre640S/spanish.htm)
+- (n.d.). El código ASCII Completo, tabla con los codigos ASCII completos, caracteres simbolos letras ascii, ascii codigo, tabla ascii, codigos ascii, caracteres ascii, codigos, tabla, caracteres, simbolos, control, imprimibles, extendido, letras, vocales, signos, s. Retrieved March 2, 2024, from [https://elcodigoascii.com.ar](https://elcodigoascii.com.ar/)
+- Torres, I. (2019, August 30). Diagrama de Flujo - Una Herramienta para Visualizar tus Procesos. IVE Consultores. https://iveconsultores.com/diagrama-de-flujo/

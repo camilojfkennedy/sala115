@@ -1,0 +1,82 @@
+# A02: Ejercicios diagramas de flujo
+
+En esta actividad se implementan los diagramas de flujo para desarrollar diferentes algoritmos.
+
+Se recomienda primero terminar la [A01: Diagramas de flujo](A01.md)
+
+Desarrolle las siguientes tareas:
+
+---
+## TAREA 01: Algoritmos
+
+:::{dropdown} Adquirir un revista física de arte
+
+En su cuaderno desarrolle un algoritmo para que una persona adquiera una revista física de arte. Tenga en cuenta lo siguiente:
+
+> La persona inicialmente busca en INTERNET una revista física de arte.
+> 
+> 
+> Una vez encontrada la revista, revisar cuanto cuesta y ver si tiene el dinero suficiente para comprarla. Si no tiene el dinero suficiente volver a buscar la revista en INTERNET cuantas veces sea necesario. Si tiene el dinero suficiente alistar el dinero.
+> 
+> Luego la persona debe revisar en GOOGLE MAPS para localizar la dirección de la librería. Activar la función de GOOGLE MAPS y dirigirse caminando hacia la librería. Intentar entrar a la librería. Si la librería no está abierta: volver a buscar la revista en INTERNET e iniciar de nuevo. Si la librería está abierta, entrar a la librería.
+> 
+> Revisar si la revista está en STOCK. Si la revista no está en STOCK, volver a buscar la revista en INTERNET y empezar de nuevo. SI la revista si está en STOCK, comprar la revista física de arte.
+>
+:::
+
+
+:::{dropdown} Entrar a una casa con llave
+En su cuaderno desarrolle un algoritmo para que una persona entre a una casa cuya cerradura está asegurada con llave. Tenga en cuenta lo siguiente:
+
+> La persona inicialmente buscará la llave en su bolsillo. La persona intentará abrir la cerradura con la llave de su bolsillo.
+> 
+> 
+> Si la cerradura no abre ahora buscará otra llave en un tapete exterior y volverá a intentar abrir la cerradura con dicha llave.
+> 
+> Si la cerradura no abre ahora buscará otra llave en la guantera de un carro y volverá a intentar abrir la cerradura con dicha llave.
+> 
+> Si la cerradura no abre, llamará a un cerrajero para que abra la puerta. Si el cerrajero no contesta, entonces seguir intentando hasta que conteste.
+> 
+> Si la cerradura si abre, intentar abrir la puerta. Si la puerta abre entrar a la casa y confirmar que se logró entrar. Si la cerradura no abre, confirmar que no se logró entrar.
+>
+:::
+
+:::{dropdown} Saludar y despedirse de una persona
+En su cuaderno desarrolle un algoritmo para que el usuario salude y se despida de una persona. Tenga en cuenta lo siguiente:
+
+> La persona debe verificar inicialmente si ya saludo a la otra persona
+> 
+> 
+> Si la persona no ha saludado, saludar a la persona. Esperar a que la persona salude. Si la persona no saluda, seguir intentándolo hasta que salude.
+> 
+> Una vez que la persona salude, preguntar como esta. Si la persona responde NO esta bien, preguntar que le pasa, escuchar a la persona y decirle que el tiempo lo arregla todo. Volver a preguntar si la persona esta bien (cuantas veces sea necesario) hasta que la persona responda que esta bien.  Si la persona responder que SI esta bien entonces manifestar tranquilidad.
+> 
+> Volver a verificar si la persona ya saludo.
+> 
+> Si la persona ya saludo, entonces determinar un tiempo para poder irse.
+> 
+> El usuario debe establecer el tiempo para irse.
+> 
+> Verificar que el tiempo se cumplió. Mientras el tiempo no se cumpla, entonces hablar con la persona de cualquier tema mientras se cumple el tiempo. Ir disminuyendo el tiempo.
+> 
+> Una vez el tiempo esté cumplido, despedirse. Esperar a que la persona responda la despedida. Si la persona no contesta seguir despidiéndose hasta que la persona conteste.
+> 
+> Una vez se despida de la persona generar una mensaje de IRSE.
+>
+:::
+
+:::{dropdown} Calmar a una persona
+En su cuaderno desarrolle un algoritmo para calmar una persona. Tenga en cuenta lo siguiente:
+
+> Identificar el estado de la persona.
+> 
+> 
+> Si la persona esta bien, entonces irse del lugar. Si la persona esta en mal estado realizar lo siguiente:
+> 
+> Identificar la edad de la persona.
+> 
+> Si la persona es un bebe entonces intentar calmarla con un tetero. Si la persona es un niño entonces calmarla dandole un dulce. Si la persona es un adolescente entonces intentar calmarla dandole una gaseosa. Si la persona es un adulto entonces intentar calmarla dandole una cerveza. Si la persona es un anciano entonces intentar calmarla dandole un café.
+> 
+> Luego volver a identificar el estado de la persona y si todavía no se ha calmado, seguir intentando hasta que se calme.
+>
+:::

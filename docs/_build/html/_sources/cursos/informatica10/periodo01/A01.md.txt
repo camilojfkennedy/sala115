@@ -3,6 +3,8 @@
 En esta actividad, el estudiante conoce como se originó el INTERNET y cuales fueron sus características.
 
 :::{admonition} AVISO
+:class: note
+
 Para desarrollar esta actividad, acceda a la siguiente teoría:
 
 [HISTORIA DEL INTERNET](../recursos/T01.md#historia-del-internet)
