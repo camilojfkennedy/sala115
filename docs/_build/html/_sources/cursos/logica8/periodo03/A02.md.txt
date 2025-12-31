@@ -8,7 +8,7 @@ En esta actividad, el estudiante aprende a realizar operaciones usando variables
 1. Lea el siguiente texto:
 
 :::{admonition} ¿Cómo se realizan operaciones con variables numéricas?
-:class: tip
+:class: hint
 
 Las operaciones con **variables numéricas** permiten entender el *ciclo de vida de las variables*, en especial las variables dinámicas (cuyo valor cambia constantemente).
 
@@ -148,7 +148,7 @@ Por tanto, $af = 25$, $bf = 23$ y $cf = 48$
 1. Lea el siguiente texto:
 
 :::{admonition} ¿Qué es codificar y decodificar?
-:class: tip
+:class: hint
 
 **Codificar** es el proceso de transformar **información** de un formato a otro, generalmente para protegerla, comprimirla o prepararla para la transmisión. Imagine que es como escribir un mensaje secreto que solo alguien con la clave correcta puede entender.
 
@@ -323,7 +323,7 @@ El proceso de decodificación en **ASCII** es el mismo *proceso de codificación
 ## TAREA 05: Evaluación
 
 :::{admonition} Presentación del cuaderno y sustentación
-:class: danger
+:class: attention
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 - El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
 - El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.

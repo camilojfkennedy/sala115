@@ -1,13 +1,15 @@
 # A01: Mantenimiento y electrónica
 
-En esta actividad, el estudiante conoce los conceptos de Electrónica y Mantenimiento. Desarrolle las siguientes tareas:
+En esta actividad, el estudiante conoce los conceptos de Electrónica y Mantenimiento.
 
 :::{admonition} AVISO
-:class: note
+:class: seealso
 Para desarrollar esta actividad, acceda a la siguiente teoría:
 
-[MANTENIMIENTO y ELECTRÓNICA](../recursos/T02.md)
+- [{bdg-primary-line}`MANTENIMIENTO y ELECTRÓNICA`](../recursos/T02.md)
 :::
+
+Desarrolle las siguientes tareas:
 
 ---
 ## TAREA 01: Importancia de la electricidad y electrónica
@@ -65,7 +67,7 @@ Pirámide de la importancia
 ## TAREA 05: EVALUACIÓN
 
 :::{admonition} Presentación del cuaderno y sustentación
-:class: danger
+:class: attention
 
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 

@@ -8,7 +8,7 @@ En esta actividad, el estudiante analiza los conceptos de datos e información. 
 1. Lea los siguientes textos:
 
 :::{admonition} ¿Qué son los datos?
-:class: tip
+:class: hint
 Los **datos** son cualquier cantidad, valor o hecho **SIN ORGANIZAR, SIN ANALIZAR o SIN PROCESAR**.
 
 > *“Los datos NO tienen significado alguno”*.
@@ -25,7 +25,7 @@ Ejemplo de datos:
 :::
 
 :::{admonition} ¿Qué es la información?
-:class: tip
+:class: hint
 
 La **información** es el conjunto de datos organizados, analizados y procesados que tienen significado para las personas.
 
@@ -58,7 +58,7 @@ vacío|"El vaso está **vacío**"
 ## TAREA 02: Evaluación
 
 :::{admonition} Presentación del cuaderno y sustentación
-:class: danger
+:class: attention
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 - El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
 - El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.

@@ -10,7 +10,7 @@ A partir de la idea de proyecto de grado seleccionada, ahora debe construir el t
 1. Transcriba el siguiente texto en su cuaderno:
 
     :::{admonition} ¿Cómo construir un título de proyecto?
-    :class: tip
+    :class: hint
     
     Una vez identificado el tema y la idea de proyecto, es necesario sintetizarlo en una frase. Primero se debe responder las siguientes cuatro preguntas de indagación:
     
@@ -78,7 +78,7 @@ Con la respuesta a la pregunta: **¿Para qué se realizará el trabajo?**, se co
 
 1. Transcriba el siguiente texto en su cuaderno:
     :::{admonition} ¿Qué es un planteamiento del problema?
-    :class: tip
+    :class: hint
 
     Un **planteamiento del problema**, es una *descripción concisa* y *clara* de un **problema** o desafío que necesita ser abordado. Sirve como una hoja de ruta para la resolución de problemas y la toma de decisiones, ayudando a individuos y equipos a definir el alcance de su trabajo y centrarse en los aspectos más críticos del proyecto.
 
@@ -118,7 +118,7 @@ Con la respuesta a la pregunta: **¿Para qué se realizará el trabajo?**, tambi
 1. Transcriba el siguiente texto en su cuaderno:
 
     :::{admonition} ¿Qué es una justificación?
-    :class: tip
+    :class: hint
 
     La **justificación** en un proyecto es la sección donde se exponen las razones que motivan y dan valor al estudio. Se explica la importancia del tema, su relevancia teórica y práctica, y se argumenta por qué el tema es relevante, qué beneficios aportará, y a quiénes beneficiará.
 
@@ -161,7 +161,7 @@ Desarrolle los siguientes puntos:
 1. Transcriba el siguiente texto en su cuaderno:
 
     :::{admonition} ¿Qué son los objetivos?
-    :class: tip
+    :class: hint
     
     En un proyecto, se crea UN SOLO OBJETIVO GENERAL y varios OBJETIVOS ESPECÍFICOS.
 
@@ -224,7 +224,7 @@ Con el **Título de proyecto de grado**, se crea la **Pregunta problematizadora*
 1. Transcriba en su cuaderno el siguiente texto:
 
     :::{admonition} ¿Qué es la pregunta problematizadora?
-    :class: tip
+    :class: hint
 
     La pregunta problematizadora permite establecer claramente el problema a resolver, mantenerlo enfocado y con un propósito. Es la base sobre la cual se construye todo el proyecto. Por lo tanto, es mportante aprender a redactarla adecuadamente.
     :::
@@ -257,7 +257,7 @@ Con el **Título de proyecto de grado**, se crea la **Pregunta problematizadora*
 1. En su cuaderno transcriba el siguiente texto:
 
     :::{admonition} ¿Qué es el marco teórico?
-    :class: tip
+    :class: hint
 
     Un marco teórico esta compuesto por:
 
@@ -278,7 +278,7 @@ Los **aspectos metodológicos** es la planeación del desarrollo del proyecto. E
 1. Transcriba el siguiente texto en su cuaderno:
 
     :::{admonition} ¿Qué son los aspectos metodológicos?
-    :class: tip
+    :class: hint
 
     Los aspectos metodológicos se refiere al "cómo" se llevará a cabo la investigación. Incluyen la descripción detallada de los métodos, técnicas y herramientas que se utilizarán para recopilar, analizar e interpretar los datos. En resumen, los aspectos metodológicos son la "hoja de ruta" que guía el estudio, asegurando que la investigación sea rigurosa, válida y confiable. Los aspectos metodológicos se componen de las siguientes secciones:
 
@@ -349,7 +349,7 @@ Las referencias son las fuentes de información que el estudiante consultó para
 1. Transcriba el siguiente texto:
 
     :::{admonition} ¿Qué son las referencias?
-    :class: tip
+    :class: hint
 
     Las **referencias** en un proyecto de grado son una lista detallada de todas las fuentes (libros, artículos, páginas web, etc.) que el autor ha consultado y utilizado para sustentar su investigación. Funcionan como un reconocimiento a las ideas y trabajos de otros, y permiten a los lectores verificar y profundizar en la información presentada. Son esenciales para:
 
@@ -402,7 +402,7 @@ Las referencias son las fuentes de información que el estudiante consultó para
 ## TAREA 09: EVALUACIÓN
 
 :::{admonition} Construcción del **documento del ante-proyecto**
-:class: danger
+:class: attention
 
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad. Desarrolle los siguientes puntos:
 

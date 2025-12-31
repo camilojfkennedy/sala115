@@ -2,7 +2,7 @@
 
 En esta actividad se implementan los diagramas de flujo para desarrollar diferentes algoritmos.
 
-Se recomienda primero terminar la [A01: Diagramas de flujo](A01.md)
+Se recomienda primero terminar la [A01: Diagramas de flujo](A01.md).
 
 Desarrolle las siguientes tareas:
 

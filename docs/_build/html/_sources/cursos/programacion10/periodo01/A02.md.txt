@@ -3,12 +3,14 @@
 En esta actividad el estudiante conoce el concepto de algoritmo.
 
 :::{admonition} AVISO
-:class: note
+:class: seealso
 
 Para desarrollar esta actividad, acceda a la siguiente teoría:
 
-[Algoritmos](../recursos/T02.md)
+- [{bdg-primary-line}`Algoritmos`](../recursos/T02.md)
 :::
+
+Desarrolle las siguientes tareas:
 
 ---
 ## TAREA 01: ¿Qué son los algoritmos?
@@ -70,7 +72,7 @@ Instrucciones corte cabello||
 ## TAREA 05: EVALUACIÓN
 
 :::{admonition} Presentación del cuaderno y sustentación
-:class: danger
+:class: attention
 
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 

@@ -13,7 +13,7 @@ Desarrolle las siguientes tareas:
 2. MAXIMIZAR la ventana de la terminal del sistema.
 3. En la terminal del sistema, EJECUTE el comando `python3`.
     :::{admonition} ¿Cómo ejecutar comandos?
-    :class: tip
+    :class: hint
     Dentro de la terminal, usted puede ejecutar comandos.
 
     Para EJECUTAR un comando; es necesario escribir dicho comando y luego presionar la tecla **ENTER**.
@@ -27,7 +27,7 @@ Desarrolle las siguientes tareas:
 4. AHORA usted puede ejecutar comandos en la consola interactiva de PYTHON.
 5. IDENTIFIQUE el **prompt**.
     :::{admonition} ¿Qué es el prompt? (>>>)
-    :class: tip
+    :class: hint
     - El prompt son tres caracteres de mayor que (>>>).
     - Los comandos a ejecutar (en la consola de P.YTHON) se escriben después del prompt.
     - Se escribe el comando y luego se PULSA la tecla **ENTER**.
@@ -134,7 +134,7 @@ Desarrolle las siguientes tareas:
 ## TAREA 03: EVALUACIÓN
 
 :::{admonition} Laboratorio de comandos (5 minutos)
-:class: danger
+:class: attention
 
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 

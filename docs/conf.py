@@ -55,6 +55,6 @@ html_theme_options = {
         "color-brand-primary": "#265787",
         "sidebar-caption-font-size": "var(--font-size--normal)",
         "toc-font-size": "var(--font-size--small)",
-        "admonition-font-size": "0.847rem"
+        "admonition-font-size": "0.858rem"
     },
 }

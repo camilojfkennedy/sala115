@@ -1,13 +1,15 @@
 # A01: Proyecto de grado
 
-En esta actividad, el estudiante conoce que se necesita para crear, presentar y sustentar un proyecto de grado en la Institución Educativa. Desarrolle las siguientes tareas:
+En esta actividad, el estudiante conoce que se necesita para crear, presentar y sustentar un proyecto de grado en la Institución Educativa.
 
 :::{admonition} AVISO
-:class: note
+:class: seealso
 Para desarrollar esta actividad, acceda a la siguiente teoría:
 
-[PROYECTO DE GRADO](../recursos/T06.md)
+- [{bdg-primary-line}`PROYECTO DE GRADO`](../recursos/T06.md)
 :::
+
+Desarrolle las siguientes tareas:
 
 ---
 ## TAREA 01: ¿Qué es un proyecto de grado?
@@ -46,7 +48,7 @@ Para desarrollar esta actividad, acceda a la siguiente teoría:
 ## TAREA 03: EVALUACIÓN
 
 :::{admonition} REPOSITORIO PROYECTOS DE GRADO
-:class: danger
+:class: attention
 
 1. Responda las siguientes preguntas en su cuaderno:
     - ¿Para que sirve tener un repositorio de proyectos de grado?

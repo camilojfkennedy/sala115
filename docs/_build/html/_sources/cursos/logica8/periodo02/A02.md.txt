@@ -3,11 +3,13 @@
 En esta actividad, el estudiante aprende a identificar los elementos que hacen parte de la jerarquía de datos.
 
 :::{admonition} AVISO 
-:class: note
+:class: seealso
 Para desarrollar esta actividad, acceda al siguiente recurso:
 
-- [TEORÍA JERARQUÍA DE DATOS](../recursos/T01.md)
+- [{bdg-primary-line}`TEORÍA JERARQUÍA DE DATOS`](../recursos/T01.md)
 :::
+
+Desarrolle las siguientes tareas:
 
 ---
 ## TAREA 01: Conceptos de jerarquía de datos
@@ -100,7 +102,7 @@ Base de datos
 ## TAREA 06: Evaluación
 
 :::{admonition} Presentación del cuaderno y sustentación
-:class: danger
+:class: attention
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 - El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
 - El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.

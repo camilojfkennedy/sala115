@@ -1,0 +1,50 @@
+# A02: IDE Thonny
+
+En esta actividad se estudia el IDE THONNY.
+
+:::{admonition} AVISO
+:class: seealso
+Para desarrollar esta actividad, acceda a los siguientes recursos:
+- [{bdg-primary-line}`IDE THONNY`](../recursos/T02.md)
+- [{bdg-primary-line}`Thonny, Python IDE for beginners`](https://thonny.org/)
+:::
+
+Desarrolle las siguientes tareas:
+
+---
+## TAREA 01: Entorno de desarrollo integrado (IDE) Thonny
+
+1. Lea la sección [¿Qué es un IDE?](../recursos/T02.md#qué-es-un-ide), y en su cuaderno responda: 
+    - ¿Qué es un IDE?
+    - ¿Qué tienen en común y en que se diferencian los desarrolladores de software con los escritores y los contadores?
+    - Con la tabla: [Características de un IDE](../recursos/T02.md#características-de-un-ide), realizar un mapa conceptual.
+    - Dentro de las características de un IDE, se considera las pruebas y la depuración unos de los elementos más importantes. Lea la definición de cada uno y responda la posible razón por lo cual esto es así.
+2. Lea la sección [¿Qué es Thonny?](../recursos/T02.md#qué-es-thonny), y en su cuaderno responda si las siguientes frases son verdaderas o falsas y explique el por qué:
+    - **Thonny** es un IDE para programar en JavaScript. **(F o V)**
+    - Thonny solo funciona en sistema operativo Windows. **(F o V)**
+    - Thonny solo es para usuarios avanzados. **(F o V)**
+    - Thonny viene con Python integrado. Así que no es necesario instalar Python por aparte. **(F o V)**
+    - Al igual que en la consola interactiva de PYTHON, en Thonny es necesario PULSAR la tecla ENTER cada vez que queramos ejecutar una instrucción. **(F o V)**
+3. Lea la sección [Características del IDE Thonny](../recursos/T02.md#características-ide-thonny) y responda en su cuaderno:
+    - ¿De qué forma se pueden ver los valores de las variables en Thonny?
+    - ¿Qué es para usted depurar?
+    - ¿Cuales son los errores de sintaxis más comunes al momento de programar?
+
+---
+## TAREA 02: Consulta en la web
+
+1. Consultar en Internet que otros IDES existen para programar en Python y escríbalos en su cuaderno. (Mínimo 2 IDES por cada sistema operativo LINUX, Windows y MacOS)
+
+2. Consultar en Internet que es una API (Application Programming Interface)
+
+---
+## TAREA 03: EVALUACIÓN
+
+:::{admonition} Presentación del cuaderno y sustentación
+:class: attention
+
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+:::

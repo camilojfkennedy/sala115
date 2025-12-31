@@ -1,14 +1,16 @@
 # A02: Álgebra de Boole
 
-En esta actividad, el estudiante aprende sobre el álgebra de Boole. Desarrolle las siguientes tareas:
+En esta actividad, el estudiante aprende sobre el álgebra de Boole.
 
 :::{admonition} AVISO
-:class: note
+:class: seealso
 
 Para resolver esta actividad, acceda a la teoría:
 
-- [ÁLGREBRA DE BOOLE](../recursos/T03.md)
+- [{bdg-primary-line}`ÁLGREBRA DE BOOLE`](../recursos/T03.md)
 :::
+
+Desarrolle las siguientes tareas:
 
 ---
 ## TAREA 01: George Boole
@@ -60,7 +62,7 @@ Horizontales | Verticales
 ## TAREA 03: Evaluación
 
 :::{admonition} Presentación del cuaderno y sustentación
-:class: danger
+:class: attention
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 - El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
 - El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.

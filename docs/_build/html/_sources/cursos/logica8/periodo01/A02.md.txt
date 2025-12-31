@@ -8,7 +8,7 @@ En esta actividad, el estudiante aprende conceptos introductorios de la lógica 
 1. Lea el siguiente texto:
 
 :::{admonition} ¿Qué es un sistema computacional?
-:class: tip
+:class: hint
 Un sistema computacional es el conjunto de hardware que interactúa con un software para almacenar, procesar y mostrar información.
 
 ```{figure} ./recursos/image04.png
@@ -32,7 +32,7 @@ Computadora
 1. Lea el siguiente texto:
 
 :::{admonition} ¿Qué es informática?
-:class: tip
+:class: hint
 **La informática** es la ciencia o disciplina que estudia el diseño, construcción e implementación de **sistemas computacionales** para garantizar la **integridad** y **disponibilidad** de la información.
 
 - REGLA 01: (Integridad de la información)
@@ -64,7 +64,7 @@ Los bancos deben garantizar integridad y disponibilidad
 ## TAREA 03: Evaluación
 
 :::{admonition} Presentación del cuaderno y sustentación
-:class: danger
+:class: attention
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 - El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
 - El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.

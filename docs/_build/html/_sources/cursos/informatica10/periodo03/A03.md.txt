@@ -3,10 +3,10 @@
 En esta actividad, el estudiante reflexiona sobre la importancia de la investigación para elegir una idea de proyecto. Desarrolle las siguientes tareas:
 
 :::{admonition} AVISO
-:class: note
+:class: seealso
 Para desarrollar esta actividad, acceda a la siguiente teoría:
 
-[UTILIDAD de la investigación](../recursos/T05.md)
+- [{bdg-primary-line}`UTILIDAD de la investigación`](../recursos/T05.md)
 :::
 
 ---
@@ -66,7 +66,7 @@ Sinónimos investigar
 ## TAREA 03: EVALUACIÓN
 
 :::{admonition} ELECCIÓN DE IDEA DE PROYECTO 🔴
-:class: danger
+:class: attention
 
 1. De las ideas de proyecto analizadas, SELECCIONE UNA IDEA PARA SU PROYECTO DE GRADO. (NO SELECCIONE LA IDEA AL AZAR).
 

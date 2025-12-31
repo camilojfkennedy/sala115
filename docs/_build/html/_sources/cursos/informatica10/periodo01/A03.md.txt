@@ -3,11 +3,13 @@
 En esta actividad, el estudiante conoce los orígenes del software.
 
 :::{admonition} AVISO
-:class: note
+:class: seealso
 Para desarrollar esta actividad, acceda a la siguiente teoría:
 
-[HISTORIA DEL SOFTWARE](../recursos/T01.md#historia-del-software)
+- [{bdg-primary-line}`HISTORIA DEL SOFTWARE`](../recursos/T01.md#historia-del-software)
 :::
+
+Desarrolle las siguientes tareas:
 
 ---
 ## TAREA 01: Orígenes del software
@@ -38,7 +40,7 @@ Para desarrollar esta actividad, acceda a la siguiente teoría:
 ## TAREA 05: EVALUACIÓN
 
 :::{admonition} Examen de conocimientos (20 minutos)
-:class: danger
+:class: attention
 
 En esta actividad el estudiante es evaluado con los temas vistos hasta el momento. El estudiante presenta un examen individual de 10 preguntas. Las posibles preguntas son:
 

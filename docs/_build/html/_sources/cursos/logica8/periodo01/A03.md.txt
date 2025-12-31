@@ -8,12 +8,12 @@ En esta actividad, el estudiante analiza el concepto de lógica computacional. D
 1. Lea los siguientes textos:
 
 :::{admonition} ¿Qué es razonar?
-:class: tip
+:class: hint
 **Razonar** es la actividad mental que permite **organizar ideas** para llegar a una conclusión (comprobar, deducir).
 :::
 
 :::{admonition} ¿Qué es lógica?
-:class: tip
+:class: hint
 La **Lógica** es la rama del conocimiento que nos permite determinar que un resultado es verdadero positivo, verdadero negativo, falso positivo o falso negativo porque fue pensado **razonablemente**.
 
 La lógica es muy útil en la **comprobación de resultados**. Es decir, permite verificar que algo sea realmente cierto y no se cometan errores. Se suelen tener dos resultados, un resultado inicial y un resultado final.
@@ -46,7 +46,7 @@ Después de aplicar **lógica**, este resultado puede ser verdadero o falso. Por
 1. Lea el siguiente texto:
 
 :::{admonition} ¿Qué es lógica computacional?
-:class: tip
+:class: hint
 La **lógica computacional** es un área que combina elementos de la lógica y la informática para resolver problemas complejos por medio del diseño de sistemas computacionales.
 
 La **lógica computacional** tiene las siguientes aplicaciones:
@@ -69,7 +69,7 @@ La **lógica computacional** tiene las siguientes aplicaciones:
 ## TAREA 03: Evaluación
 
 :::{admonition} Presentación del cuaderno y sustentación
-:class: danger
+:class: attention
 En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
 - El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
 - El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.

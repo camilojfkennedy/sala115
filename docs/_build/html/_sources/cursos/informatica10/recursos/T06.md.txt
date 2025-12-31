@@ -45,7 +45,7 @@ El **proyecto de grado** tiene los siguientes 4 entregables:
 - 📕 Documento final del proyecto
 
 :::{admonition} ¿Cuál es la diferencia entre los documentos del ante-proyecto y el proyecto de grado?
-:class: tip
+:class: hint
 
 La diferencia es que el **documento del ante-proyecto** se realiza ANTES de ejecutar el proyecto (GRADO DÉCIMO). Por el contrario el **documento del proyecto** se realiza DESPUÉS de ejecutar el proyecto (GRADO ONCE). 
 :::
@@ -82,7 +82,7 @@ Cada grupo de trabajo, tiene 10 minutos para sustentar su proyecto. Posteriormen
 :align: left
 :header-rows: 1
 
-* - Dominion del tema
+* - Dominio del tema
   - Argumentación
   - Coherencia
   - Innovación
