@@ -1,3 +1,14 @@
-# OFIMÁTICA GRADO 10
+# Ofimática 10
 
-Acceda al curso de ofimática
+Bienvenido al curso de ofimática de grado décimo.
+
+Acceda a las actividades según el periodo.
+
+:::{toctree}
+:maxdepth: 3
+
+periodo01/index.md
+periodo02/index.md
+periodo03/index.md
+recursos/index.md
+:::

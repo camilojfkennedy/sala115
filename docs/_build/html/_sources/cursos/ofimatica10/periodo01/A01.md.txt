@@ -1,0 +1,127 @@
+# A01: Uso de software libre
+
+En esta actividad se aprende sobre el uso del software libre.
+
+:::{admonition} AVISO
+:class: seealso
+
+Para resolver esta actividad, acceda a la teoría:
+
+- [{bdg-primary-line}`Software libre`](../recursos/T01.md)
+:::
+
+Desarrolle las siguientes tareas:
+
+---
+## TAREA 01: Definición de software
+
+1. En su cuaderno, escriba una lista de 15 ejemplos de software que usted conozca (smartphone, de computadores, en internet, etc.) NO OLVIDE HACER UNA BREVE DESCRIPCIÓN. 
+2. Los anteriores ejemplos clasifíquelos en **software de sistema** o **software de aplicación**.
+
+---
+## TAREA 02: Importancia del software libre
+
+1. En su cuaderno responda:
+    - ¿Cuáles son las **4 libertades esenciales** que debe cumplir un software, (para que sea considerado software libre)?
+
+2. Analice los siguientes casos y en su cuaderno explique si el software es libre o no. Explique el por qué:
+
+    - El **software X** es ejecutado en sistemas operativos como Windows y LINUX. La última vez fue distribuido por correo electrónico y una página web. Un cliente llama de mal humor porque no pudo cambiar unos parámetros de entrada.
+    - Un **software Y** fue modificado con unos parámetros de entrada y otros de salida. De esta forma unos usuarios en Rusia lo usaron para fines de capacitación. Unos usuarios en España decidieron implementar el mismo trabajo a partir de la experiencia de los Rusos pero no fue permitida su salida de dicho País. En sus versiones iniciales dicho software se ejecutó sin problemas en varios equipos.
+    - Al **software Z** le implementaron varias adaptaciones y todas funcionaron sin problemas. Las copias llegaron a los clientes y trabajaron gastando mas tiempo de lo convencional. Es por ello que decidieron examinarlo para adecuar ciertas funcionalidades. Al final fue elegido por unos usuario en España para reemplazar otro software que inicialmente no le fue permitida su distribución en Rusia.
+
+3. En su cuaderno diligencie el siguiente crucigrama:
+
+- **2.** No requiere Codecs para funcionar.
+- **6.** Se usa para crear logotipos.
+- **5.** Mismas funcionalidades de Photoshop pero es software libre.
+- **1.** Mismas funcionalidades de Microsoft Office pero es software libre.
+- **4.** Es una alternativa libre a navegadores como EDGE o CHROME.
+- **3.** Este sistema fue creado inicialmente por Linus Torvalds.
+
+:::{image} ./recursos/image01.png
+:align: center
+:width: 600
+:::
+
+---
+## TAREA 03: Relación entre el software libre y el software de código abierto
+
+1. Lea las **características** del software libre, software de código abierto y el software privativo. Luego complete el siguiente cuadro en su cuaderno:
+
+:::{table}
+SOFTWARE LIBRE | SOFTWARE CÓDIGO ABIERTO | SOFTWARE PRIVATIVO
+-|-|-
+Impulsado por la free Software Foundation | Impulsado por la Open Source Initiative (OSI) | No es impulsado más allá de la propia empresa con fines lucrativos.
+.||
+.||
+:::
+
+---
+## TAREA 04: Ahorro($) usando software libre
+
+Lea la sección de software privativo y desarrolle los siguientes cálculos en su cuaderno:
+
+1. Una empresa necesita adquirir 11 licencias con **Windows 11** para poder instalar en 11 equipos. El presupuesto asignado fue $10,000,000. Al final se dieron cuenta que solo 5 equipos cumplían con los requisitos para poder instalar Windows 11. Después de hacer cuentas, ¿Cuánta plata le sobro a la empresa?
+
+    > **RESPUESTA:** $6,150,000
+    >
+
+2. Una familia quiere hacer un cálculo para identificar cuanto tienen que invertir en 5 años por tener activa una suscripción a **Microsoft Office**. Cada año la suscripción aumenta un 3%.
+    
+    > **RESPUESTA:** $2,427,122.84
+    >
+
+3. Un diseñador adquirió una suscripción de Adobe Photoshop por un año en diferentes intervalos. Uso Photoshop de ENERO a ABRIL. De MAYO a AGOSTO no uso photoshop porque estaba en vacaciones. De SEPTIEMBRE a NOVIEMBRE Pago nuevamente. En Diciembre la renovó por un año más. ¿Cuánto gasto el diseñador por usar la licencia en el primer año?
+
+    > **RESPUESTA:** $391,768
+    >
+
+---
+## TAREA 05: El riesgo del software pirata
+
+1. Responda en su cuaderno:
+
+    - ¿Cuáles son las características de un software pirata?
+    - ¿Qué consecuencias tiene un sistema que tenga VIRUS y TROYANOS?
+    - ¿Qué podría pasar si un personal de un hospital usa un software crítico que funcione a medias y tenga poco rendimiento?
+
+2. Suponga que una empresa se vio afectada por el uso de software pirata en su cuaderno responda:
+    - ¿Qué medidas tomaría usted para evitar que la empresa quiebre?
+
+---
+## TAREA 06: Identificación de software privativo y software libre
+
+1. En su cuaderno complete la siguiente tabla:
+
+:::{table}
+. | SOFTWARE LIBRE | SOFTWARE PRIVATIVO
+-|-|-
+**Edición de fotos** | GIMP | PHOTOSHOP
+**Procesamiento de textos** | |	
+**Sistema Operativo** | |
+**Hojas de cálculo** | |	
+**Navegadores Web** | |
+**Presentaciones** | |
+**Reproductor Multimedia** | |
+**Gestión de calendario y agendas** | |
+:::
+
+---
+## TAREA 07: EVALUACIÓN
+
+:::{admonition} Examen de conocimientos (10 minutos)
+:class: attention
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad. El estudiante presenta un examen de 5 preguntas en **10 minutos**. Las posibles preguntas son:
+
+- Escriba 10 ejemplos de software e indique si es de smartphone, web o PC.
+- Escriba 10 ejemplos de software e indique si de aplicación o de sistema.
+- ¿Cuáles son las **4 libertades esenciales** que debe cumplir un software, para que sea considerado software libre?
+- Escriba 6 ejemplos de software libre y una ligera descripción de cada uno.
+- Escriba la diferencia entre software libre, software de código abierto y software privativo.
+- ¿Cuáles son las características de un software pirata?
+- ¿Qué consecuencias tiene un sistema que tenga VIRUS y TROYANOS?
+- El uso del software pirata es ilegal, ¿Qué consecuencias graves puede tener?
+- Indique ejemplos de software libre para: edición de fotos, procesamiento de texto, sistema operativo, hojas de cálculo, navegador web, presentaciones.
+- Indique ejemplos de software privativo para: edición de fotos, procesamiento de texto, sistema operativo, hojas de cálculo, navegador web, presentaciones.
+:::

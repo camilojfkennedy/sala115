@@ -1,0 +1,88 @@
+# Plan de refuerzo 01
+
+:::{admonition} EVALUACIÓN: Plan de refuerzo (10 minutos)
+:class: attention
+Estudiar los temas a continuación. Se realiza examen de 5 preguntas. Si el estudiante no asiste en la fecha programada, este será evaluado la próxima vez que asista a clase.
+:::
+
+---
+## SOFTWARE
+
+Conjunto de programas, instrucciones y reglas informáticas que permiten ejecutar distintas tareas en una computadora.
+
+- **Software de aplicación:** Programas básicos que permiten que el hardware funcione (sistemas operativos, controladores).
+- **Software de aplicación:** Programas que realizan tareas específicas para los usuarios (procesadores de texto, navegadores web).
+
+
+### Software Libre
+
+Tipo de software que respeta la libertad de los usuarios y la comunidad. Los usuarios tienen la libertad de ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software.
+
+### Software de código abierto
+
+Se centra más en los **beneficios prácticos** del código compartido. Enfatiza la transparencia y la colaboración en el desarrollo. Impulsado por la Open Source Initiative (OSI). Permite licencias más flexibles, incluyendo algunas que permiten que el código se use en software propietario.
+
+### Software privativo
+
+Es aquel que no permite a los usuarios acceder, modificar o distribuir su código fuente. Los usuarios tienen restricciones legales y técnicas
+
+### Software pirata 💀
+
+Se refiere a copias ilegales de programas informáticos que se distribuyen o utilizan sin la debida autorización de sus propietarios legales. Esta práctica viola los derechos de autor y la propiedad intelectual.
+
+---
+## EJEMPLOS DE SOFTWARE
+
+### Software libre
+
+- Sistema Operativo GNU-LINUX **($ 0)**
+- Navegador web Mozilla Firefox **($ 0)**
+- Suite ofimática LibreOffice **($ 0)**
+- Editor de imágenes GIMP **($ 0)**
+- Editor de gráficos vectoriales INKSCAPE **($ 0)**
+- Reproductor multimedia VLC **($ 0)**
+
+### Software privativo
+
+- Microsoft Windows 11 **($ 769,999)**
+- Microsoft Office **($ 459,999/año)**
+- Adobe Photoshop **($ 48,971/mes)**
+- AutoCAD **($ 2,201,999/año)**
+
+---
+## OFIMÁTICA
+
+Se refiere al conjunto de técnicas, aplicaciones y herramientas informáticas que se utilizan para optimizar, automatizar y mejorar los procedimientos o tareas relacionadas con el trabajo de oficina.
+
+> El término "ofimática" es una combinación de las palabras "oficina" e "informática".
+> 
+
+Las principales áreas que abarca la ofimática incluyen:
+
+- Procesamiento de textos (creación y edición de documentos)
+- Hojas de cálculo (manejo de datos numéricos y fórmulas)
+- Presentaciones (creación de diapositivas)
+- Gestión de bases de datos
+- Correo electrónico y comunicaciones
+- Gestión de calendarios y agendas
+
+La ofimática es fundamental en el entorno laboral moderno, ya que permite aumentar la productividad y eficiencia en las tareas administrativas y de gestión de información.
+
+### Ejemplos de software ofimático
+
+- Microsoft Office (Word, Excel, Powerpoint, Defender, Onedrive, Clipchamp, Onenote).
+- Google Workspace (Google Docs, Google Sheets, Google Slides).
+- LibreOffice (Writer, Calc, Impress, Draw, Base).
+
+### LibreOffice
+
+LibreOffice es una **suite ofimática** multi-plataforma, lo que quiere decir que se puede ejecutar en diferentes plataformas y sistemas operativos. Por consiguiente usted puede disfrutar del mismo programa en Windows, GNU/Linux o MacOS, facilitando la portabilidad entre diferentes sistemas de los documentos generados.
+
+:::{figure} ./recursos/image03.png
+:align: center
+:width: 500
+Suite ofimática LibreOffice (Writer, Calc, Impress, Draw, Base)
+:::
+
+
+
