@@ -1,0 +1,240 @@
+# A05: Formato de carácter
+
+En esta actividad se aprende a aplicar **formato de carácter** a un párrafo en LibreOffice Writer. Desarrolle las siguientes tareas:
+
+---
+## TAREA 01: Formato de carácter 1.0 {kbd}`1`
+
+En esta tarea aprenderá a aplicar formato de carácter a un párrafo.
+
+1. EJECUTE el software LibreOffice Writer.
+
+2. AGREGUE el título centrado: **Formato de carácter 1**. También AGREGUE sus **nombres completos**, **curso**, **jornada**, **fecha** y **hora**.
+
+3. GUARDE el documento en su **carpeta de evidencias** del periodo actual con el nombre: **A05T01-formato_caracter_1.odt**.
+
+4. AGREGUE el siguiente fragmento de texto al documento:
+
+    > *"La ofimática es el conjunto de aplicaciones y herramientas informáticas diseñadas para facilitar y mejorar las tareas relacionadas con la creación, edición, almacenamiento y distribución de información en el entorno de una oficina o empresa"*.
+    >
+
+5. En el documento, SELECCIONE el texto recién copiado y en el Menú superior PULSE: {guilabel}`Formato` > {guilabel}`Carácter…` para abrir la ventana {guilabel}`Carácter`.
+
+    :::{image} ./recursos/image17.png
+    :width: 260
+    :align: center
+    :::
+
+6. En la ventana {guilabel}`Carácter` configure las siguientes opciones:
+
+    :::{image} ./recursos/image18.png
+    :width: 550
+    :align: center
+    :::
+
+    - En la pestaña {guilabel}`Tipo de letra` configurar:
+        - **Tipo de letra:** Liberation Serif
+        - **Estilo:** Negrita Itálica
+        - **Tamaño:** 12 pt
+    - En la pestaña {guilabel}`Efectos tipográficos` configurar:
+        - **Color de letra:** Verde claro 1
+        - **Suprarrayado:** Punteado, Color: Azul
+        - **Tachado:** Con /
+        - **Subrayado:** Trazo, Color: Magenta
+        - **Mayusculación:** Mayúsculas iniciales
+        - **Relieve:** Sin
+        - Marcar opción de **Contorno**
+        - Marcar opción de **Sombra**
+        - Desmarcar opción de **Oculto**
+    - En la pestaña {guilabel}`Bordes` configurar:
+        - En la sección **Disposición de líneas** configurar:
+            - **Definido por el usuario:** *Seleccionar bordes superior y derecho así:*
+                :::{image} ./recursos/image19.png
+                :width: 250
+                :align: center
+                :::
+        - En la sección **Línea** configurar:
+            - **Estilo:** *Traza-punto-punto*
+            - **Color:** Amarillo
+            - **Grosor:** Muy grueso (4,5 pt)
+                :::{image} ./recursos/image20.png
+                :width: 250
+                :align: center
+                :::
+        - En la sección **Estilo de sombra** configurar:
+            - **Posición:** Proyectar sombra a la parte inferior derecha
+            - **Color:** Lima
+    - Pulsar el botón {guilabel}`Aceptar`
+
+7. En su cuaderno responda la siguiente pregunta:
+
+    - ¿Que pasó con el texto que había pegado inicialmente?
+
+8. GUARDE los cambios y CIERRE el software **LibreOffice Writer**.
+
+---
+## TAREA 02: Formato de carácter 2.0 {kbd}`1`
+
+1. DESCARGUE el siguiente archivo y guárdelo en su carpeta de evidencias:
+
+    - A05T02-practica_fuentes.odt [{bdg-primary}`Descargar`](./recursos/A05T02-practica_fuentes.odt)
+
+2. ABRA el archivo: **A05T02-practica_fuentes.odt** y AGREGUE el título centrado: **Formato de carácter 2**. También AGREGUE sus nombres completos, curso, jornada, fecha y hora.
+
+    :::{admonition} ¿Qué contiene el documento?
+    :class: hint
+    El documento tiene varios párrafos que especifican la configuración de formato de carácter que debe tener cada uno.
+    :::
+
+3. SELECCIONE cada párrafo y aplique la configuración indicada PULSANDO en el menú superior: {guilabel}`Formato` > {guilabel}`carácter…` (NO USE la barra de herramientas de formato!!!)
+
+4. Después de aplicar todos los formatos a los párrafos, el documento debería tener el siguiente aspecto:
+
+    :::{image} ./recursos/image21.png
+    :width: 500
+    :align: center
+    :::
+
+5. En su cuaderno responda la siguiente pregunta:
+
+    - ¿Cuál es la ventaja de aplicar **formato de carácter** por medio del **menú superior** frente a aplicar **formato de carácter** por medio de la **barra de herramientas formato**?
+
+6. GUARDE los cambios y luego cierre el software **LibreOffice Writer**.
+
+---
+## TAREA 03: Formato de caráctar 3.0 {kbd}`1`
+
+En esta tarea se practica el uso de diferentes formatos de carácter en distintas partes de un documento.
+
+1. DESCARGUE el siguiente archivo y guárdelo en su carpeta de evidencias:
+
+    - A05T03-mitos.odt [{bdg-primary}`Descargar`](./recursos/A05T03-mitos.odt)
+
+2. ABRA el archivo: **A05T03-mitos.odt** y AGREGUE el título centrado: Formato de carácter 3. También AGREGUE sus nombres completos, curso, jornada, fecha y hora.
+
+    :::{admonition} ¿Que contiene el documento?
+    :class: hint 
+    El documento contienen las descripciones de Dioses de la mitología griega. A los títulos: ADONIS, AFRODITA y AGON se les debe aplicar una configuración de formato de carácter.
+    :::
+
+3. Seleccione el título **ADONIS** y PULSE en el **Menú superior** > {guilabel}`Formato` > {guilabel}`Carácter…`
+
+    - En la pestaña {guilabel}`Resalte` configurar:
+        - **Color:** Verde claro 3
+    - En la pestaña {guilabel}`Bordes` configurar:
+        - En la sección **Disposición de líneas** configurar:
+            - **Preconfigs:** Los cuatro bordes
+        - En la sección **Línea** configurar:
+            - **Estilo:** Sólido
+            - **Color:** Azul
+            - **Grosor:** Grueso 2.25 pt
+        - En la sección **Separación** configurar:
+            - 0.50cm por cada lado (izquierda, derecha, superior e inferior)
+        - En la sección **Estilo de sombra** configurar:
+            - **Posición:** Abajo y a la derecha
+            - **Color:** Azul claro 3
+
+4. Aplique la misma configuración de **formato de carácter** a los títulos **AFRODITA** y **AGÓN**.
+
+5. En cada párrafo, RESALTE la primera palabra con color amarillo.
+
+6. Después de aplicar **todos los formatos** al texto, el documento debería tener el siguiente aspecto:
+
+    :::{image} ./recursos/image22.png
+    :width: 500
+    :align: center
+    :::
+
+7. En su cuaderno responda las siguientes preguntas:
+
+    - ¿Que desventajas ha encontrado hasta el momento usando la herramienta de **formato de carácter (Menú superior > Formato** > **Carácter…** **)?**
+
+    - ¿Que pasaría si en vez de 3, hubiesen sido 30 títulos a los que era necesario configurar formato de carácter?
+
+8. GUARDE los cambios y cierre el software LibreOffice Writer.
+
+---
+## TAREA 04: Clonando formato {kbd}`1`
+
+En esta tarea aprenderá a clonar formatos.
+
+1. DESCARGUE el siguiente archivo y guárdelo en su carpeta de evidencias:
+
+    - A05T04-enfermedades.odt [{bdg-primary}`Descargar`](./recursos/A05T04-enfermedades.odt)
+    
+2. ABRA el archivo: **A04T04-efermedades.odt** y AGREGUE el título centrado: Clonado de formato. También AGREGUE sus nombres completos, curso, jornada, fecha y hora.
+
+    :::{admonition} ¿Qué contiene el documento?
+    :class: hint
+    En este documento se encuentra la descripción de unas enfermedades.
+    
+    Es necesario dar formato a los títulos de las enfermedades. 
+    
+    Se debe aplicar un formato de carácter en el título Gota. Luego este formato será clonado en los demás títulos (Artrosis y Aftas).
+    ::: 
+
+3. SELECCIONE el título **Gota** y aplique las siguientes configuraciones de **formato de carácter:**
+
+    - En la pestaña {guilabel}`Tipo de letra` configurar:
+        - **Familia:** Verdana
+        - **Tamaño:** 28 pt
+        - **Estilo:** Negrita
+
+    - En la pestaña {guilabel}`Efectos tipográficos` configurar:
+        - En la sección **Efectos** configurar:
+            - MARCAR la opción de **contorno**.
+
+    - En la pestaña {guilabel}`Resalte` configurar:
+        - **Color:** verde claro 4
+
+    - En la pestaña {guilabel}`Bordes` configurar:
+        - En la sección **Disposición de líneas** configurar:
+            - **Preconfigs:** los cuatro bordes
+        - En la sección **Separación** configurar:
+            - 0,20 cm por cada lado (izquierda, derecha, superior e inferior)
+
+    - PULSAR el botón **Aceptar.**
+
+4. El **formato de carácter** del título Gota debería quedar así:
+
+    :::{image} ./recursos/image23.png
+    :width: 200
+    :align: center
+    :::
+
+5. Al párrafo de la descripción de la enfermedad **Gota**, APLICAR: **tipo de letra:** Tahoma y el **tamaño de letra:** 14pt (En este caso puede usar el formato de la **barra de herramientas formato**)
+
+6. SELECCIONE el título **Gota** y en la **barra de herramientas estándar**, PULSE el botón **Clonar formato** dos veces para dejar la herramienta activa.
+
+    :::{image} ./recursos/image24.png
+    :width: 30
+    :align: center
+    :::
+
+    :::{admonition} ¿Qué esta pasando en el mouse?
+    :class: hint
+    El **mouse** ahora tendrá un **ícono** de una **bote de pintura derramándose**, esto quiere decir que cualquier palabra que seleccione, recibirá el formato previamente seleccionado.
+    
+    Cuando termine de clonar formato, presione la tecla {kbd}`ESC`.
+    :::
+
+
+7. COPIE el formato a los títulos de las enfermedades: **Artrosis** y **Aftas**. Cuando termine presione la tecla {kbd}`ESC`.
+
+8. En su cuaderno responda la siguiente pregunta:
+
+    - ¿Cómo la herramienta **clonar formato** puede ayudar a superar las desventajas al usar la herramienta: **formato de carácter?**
+
+9. GUARDE los cambios y cierre el software **LibreOffice Writer**.
+
+---
+## TAREA 05: EVALUACIÓN
+
+:::{admonition} Presentación de cuaderno y carpeta de evidencias
+:class: attention
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El estudiante presenta su carpeta de evidencias.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+:::

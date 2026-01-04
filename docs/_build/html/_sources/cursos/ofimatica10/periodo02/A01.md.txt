@@ -1,4 +1,4 @@
-# A02: Ofimática
+# A01: Ofimática
 
 En esta actividad se aprende sobre el concepto de ofimática.
 
@@ -65,7 +65,7 @@ En esta tarea, el estudiante es evaluado con los temas vistos en la presente act
     - Invente un nombre para su jefe.
     - Una hoja de cuaderno (sin espacio entre renglones, letra mediana)
 
-    :::{figure} ./recursos/image02.png
+    :::{figure} ./recursos/image00.png
     :align: center
     :width: 500
     Negocio de frutas y verduras

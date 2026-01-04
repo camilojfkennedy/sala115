@@ -1,0 +1,95 @@
+# A02: Teoría de LibreOffice Writer
+
+En esta actividad se estudian las características del software LibreOffice Writer. 
+
+:::{admonition} AVISO
+:class: seealso
+
+Para resolver esta actividad, acceda a la teoría:
+
+- [{bdg-primary-line}`LibreOffice Writer`](../recursos/T03.md)
+:::
+
+Desarrolle las siguientes tareas:
+
+---
+## TAREA 01: LibreOffice Writer
+
+1. En su cuaderno responda las siguientes preguntas:
+    - ¿Para que sirve LibreOffice Writer?
+    - ¿Qué características tiene el software LibreOffice Writer?
+
+---
+## TAREA 02: LibreOffice Writer Vs Microsoft Word
+
+1. En su cuaderno responda las siguientes preguntas:
+
+    - ¿Cuáles son las 6 ventajas de usar **LibreOffice Writer** frente **Microsoft Word**?
+    - ¿Por qué Microsoft Office para PC solo está disponible (de forma legal) para ser usado exclusivamente en Windows y MACOS? (Escriba sus argumentos en media hoja de cuaderno).
+    - ¿Qué posibles motivos tendría LibreOffice para no ofrecer un servicio de edición de documentos en la nube? (Escriba sus argumentos en media hoja de cuaderno).
+    - ¿Qué posibles motivos tendría Microsoft para que Microsoft Word no sea de código abierto? (Escriba sus argumentos en media hoja de cuaderno).
+
+2. En su cuaderno, diligencie la siguiente tabla colocando el nombre de la herramienta contraparte de Microsoft Office frente a LibreOffice. Explique también la función que tiene dichas herramientas. (**Si no existe contraparte, escribir N/A**).
+
+    > **Ejemplo:**
+    > La contraparte de **Microsoft Word** en **LibreOffice** es **LibreOffice Writer.** Por tanto Microsoft Word como LibreOffice Writer funcionan para edición y formato de textos.
+    >
+
+    :::{table}
+    MICROSOFT OFFICE | LibreOffice | Función
+    -|-|-
+    Microsoft Word | LibreOffice Writer | Tanto Microsoft Word como LibreOffice Writer funcionan para edición y formato de textos
+    Microsoft Excel | |
+    Microsoft PowerPoint | |
+    Windows Defender | | 
+    OneDrive | | 
+    Microsoft Outlook |	|	
+    Microsoft Designer | |	
+    Clipchamp | |
+    OneNote | |
+    :::
+
+---
+## TAREA 03: Análisis de LibreOffice Writer
+
+1. Revise la característica **Trabajando con estilos** y responda:
+
+    - ¿Por qué no es recomendable dar formato de estilo directamente a un texto, en especial a texto de gran número de hojas?
+
+2. Revise la característica **Paginación e impresión de documentos** y responda:
+
+    - ¿Qué configuraciones se deben tener en cuenta para que un documento quede bien estructurado y organizado?
+
+3. Observe la imagen de **Galería** en la característica de **Imágenes y Objetos de dibujo** y responda:
+
+    - ¿Qué tipos de diagramas se pueden insertar en **LibreOffice Writer**?
+
+4. En la característica **Herramientas de revisión y corrección** describen otros tipos de ayudas de escritura. Con esta información complete el siguiente diagrama:
+
+    :::{image} ./recursos/image01.png
+    :width: 500
+    :align: center
+    :::
+
+5. En la característica **Trabajo con documentos largos** hay una imagen con un inventario de elementos que componen un documento de LibreOffice Writer. En su cuaderno responda:
+
+    - ¿Que significa cada uno de estos elementos?
+
+---
+## TAREA 04: EVALUACIÓN
+
+:::{admonition} Examen de conocimientos (10 minutos)
+:class: attention
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad. El estudiante presenta un examen de conocimientos. Las posibles preguntas son:
+
+- ¿Para que sirve LibreOffice Writer?
+- ¿Qué características tiene el software LibreOffice Writer?
+- ¿Cuáles son las 6 ventajas de usar **LibreOffice Writer** frente **Microsoft Word**?
+- ¿Por qué Microsoft Office para PC solo está disponible (de forma legal) para ser usado exclusivamente en Windows y MACOS?
+- ¿Qué posibles motivos tendría LibreOffice para no ofrecer un servicio de edición de documentos en la nube?
+- ¿Qué posibles motivos tendría Microsoft para que Microsoft Word no sea de código abierto?
+- ¿Por qué no es recomendable dar formato de estilo directamente a un texto, en especial a texto de gran número de hojas?
+- ¿Qué configuraciones se deben tener en cuenta para que un documento quede bien estructurado y organizado?
+- ¿Qué tipos de diagramas se pueden insertar en **LibreOffice Writer**?
+- ¿Que significa cada uno de estos elementos presentes en las características de trabajos con documentos largos?
+:::

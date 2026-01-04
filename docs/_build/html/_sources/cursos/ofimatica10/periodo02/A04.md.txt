@@ -1,0 +1,219 @@
+# A04: Uso básico de LibreOffice Writer
+
+En esta actividad, se aprende a crear y guardar documentos, cortar, copiar, pegar, buscar y reemplazar texto en el software LibreOffice Writer. 
+
+Desarrolle las siguientes tareas:
+
+---
+## TAREA 01: Creación de documentos {kbd}`1` 📷`1`
+
+En esta tarea aprenderá a crear documentos de diferentes maneras en LibreOffice Writer. 
+
+1. EJECUTE el software LibreOffice Writer.
+2. AGREGUE el título centrado: **Creación de documentos.** También AGREGUE sus **nombres completos**, **curso**, **jornada**, **fecha** y **hora**. 
+3. GUARDE el documento en su **carpeta de evidencias** del periodo actual con el nombre: **A04T01-creacion_documento.odt**
+4. En la **barra de herramientas estándar**, PULSE el botón {guilabel}`Nuevo`.
+
+    :::{image} ./recursos/image10.png
+    :width: 50
+    :align: center
+    :::
+
+5. Se abrirá un nuevo documento de LibreOffice Writer con el nombre: Sin titulo 3.
+
+6. VUELVA al documento **A04T01-creacion_documento.odt** y en el menú superior PULSE: {guilabel}`Archivo` > {guilabel}`Nuevo` > {guilabel}`Documento` de texto. Se abrirá un nuevo documento de LibreOffice Writer con el nombre: **Sin titulo 4**.
+
+7. VUELVA al documento **A04T01-creacion_documento.odt** y PULSE la combinación de teclas: {kbd}`CTRL` + {kbd}`U`. Se abrirá un nuevo documento de LibreOffice Writer con el nombre: **Sin titulo 5**.
+
+8. Con los archivos de LibreOffice Writer abiertos hasta el momento, ORGANICE cuatro ventanas (en su pantalla) de tal forma que se vean todas al mismo tiempo así:
+
+    :::{admonition} Ventanas de LibreOffice Writer
+    :class: tip
+    ```{image} ./recursos/image11.png
+    :width: 700
+    :align: center
+    ```
+    :::
+
+9. REALICE una captura de pantalla de su pantalla y guarde la imagen en la **carpeta de evidencias** del periodo actual con el nombre: **A04T01-documentos.png**
+
+10. En su cuaderno, describa las cuatro formas de crear documentos en **LibreOffice Writer**.
+
+11. GUARDE los cambios y CIERRE el software **LibreOffice Writer**.
+
+---
+## TAREA 02: Guardado de documentos {kbd}`3`
+
+En esta tarea aprenderá a guardar documentos de diferentes maneras en LibreOffice Writer.
+
+1. EJECUTE el software LibreOffice Writer.
+
+2. AGREGUE el título centrado: **Guardado de documentos.** También AGREGUE sus **nombres completos**, **curso**, **jornada**, **fecha** y **hora**.
+
+3. GUARDE el documento en su **carpeta de evidencias** del periodo actual con el nombre: **A04T02-guardado_documento_1.odt**.
+
+4. Copie y pegue el siguiente fragmento de texto a el documento:
+
+    > "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum”
+    >
+
+5. MODIFIQUE el texto del fragmento anterior (borre algunas líneas, aplique más espacios) y en el **menú superior** PULSE: {guilabel}`Archivo` > {guilabel}`Guardar una copia…`
+
+6. En la ventana de guardado, LOCALICE su carpeta de evidencias y guarde el documento con el nombre: **A04T02-guardado_documento_2.odt**
+
+7. Vuelva a abrir el primer documento: **A04T02-guardado_documento_1.odt** y AGREGUE más texto al fragmento (el texto que usted quiera). Luego en el **menú superior** PULSE: {guilabel}`Archivo` > {guilabel}`Guardar como…`
+
+8. En la ventana de guardado, IDENTIFIQUE las opciones de **tipo de documento** y seleccione: **Documento de word 2010-365 (.docx)** y guarde el documento con el nombre de: **A04T02-guardado_documento_3.docx**
+
+    :::{image} ./recursos/image12.png
+    :width: 400
+    :align: center
+    :::
+
+9. Si sale una ventana con una advertencia sobre **Confirmar el formato del archivo**, PULSE el botón: {guilabel}`Usar formato Documento de Word 2010-365`.
+
+10. En su cuaderno ESCRIBA las diferencias entre guardar un documento con la opción **Guardar una copia…** y la opción **Guardar como…** en LibreOffice Writer.
+
+11. GUARDE los cambios y CIERRE el software **LibreOffice Writer**.
+
+---
+## TAREA 03: Cortar, copiar y pegar {kbd}`1`
+
+En esta tarea se practican las acciones de cortar, copiar y pegar textos.
+
+1. DESCARGUE el siguiente archivo y guárdelo en su carpeta de evidencias:
+
+    - A04T03-mitos_desordenados.odt [{bdg-primary}`Descargar`](./recursos/A04T03-mitos_desordenados.odt)
+
+2. ABRA el archivo: **A04T03-mitos_desordenados.odt** y AGREGUE el título centrado: Cortar, copiar y pegar. También AGREGUE sus nombres completos, curso, jornada, fecha y hora.
+
+
+    :::{admonition} ¿Qué contiene el documento?
+    :class: hint
+    Los párrafos del documento están desordenados.
+    
+    Cada párrafo tienen una numeración para que sepa el orden en el que deben aparecer.
+    :::
+
+3. Por medio de cortar, copiar y pegar: MUEVA los párrafos de manera que queden ordenados.
+
+    :::{admonition} Atajos de teclado para cortar, copiar y pegar
+    :class: tip
+    El párrafo que desee (cortar, copiar o pegar) debe estar previamente seleccionado.
+
+    Para cortar, copiar y pegar se usan las siguientes combinaciones de teclado:
+
+    ```{table}
+    Teclas | Acción
+    -|-
+    {kbd}`CTRL` + {kbd}`X` | cortar
+    {kbd}`CTRL` + {kbd}`C` | copiar
+    {kbd}`CTRL` + {kbd}`V` | pegar
+    ```
+    :::
+
+
+4. En su cuaderno escriba los títulos ordenados del documento: **A04T03-mitos_desordenados.odt**
+
+5. GUARDE los cambios y CIERRE el software **LibreOffice Writer**.
+
+---
+## TAREA 04: Buscar y reemplazar {kbd}`1`
+
+En esta tarea aprenderá a hacer búsquedas simples usando la barra de herramienta de buscar y búsquedas complejas usando la herramienta **Buscar y Reemplazar**.
+
+1. DESCARGUE el siguiente archivo y guárdelo en su carpeta de evidencias:
+
+    - A04T04-proyecto_escritorio_libre.odt [{bdg-primary}`Descargar`](./recursos/A04T04-proyecto_escritorio_libre.odt)
+
+2. ABRA el archivo: **A04T04-proyecto_escritorio_libre.odt** y AGREGUE el título centrado: Buscar y reemplazar. También AGREGUE sus nombres completos, curso, jornada, fecha y hora.
+
+3. Se debe realizar un búsqueda de la palabra aplicaciones en el texto del documento. Siga los siguientes pasos:
+
+    - PULSE las teclas {kbd}`CTRL` + {kbd}`B` para abrir la **barra de herramientas de Buscar** en la parte inferior de la interfaz.
+    - MARQUE la opción **Distinguir mayúsculas y minúsculas.**
+    - En el campo de búsqueda ESCRIBA la palabra: **aplicaciones**
+    - PULSE la opción que dice: **Buscar todo**
+
+    :::{admonition} Barra de herramientas Buscar
+    :class: tip
+    ```{image} ./recursos/image13.png
+    :width: 700
+    :align: center
+    ```
+    :::
+
+    - IDENTIFIQUE un mensaje que aparecerá en la parte derecha de la **barra de herramientas de Buscar** el cual indica el número de veces que se encontró la expresión buscada.
+    - En su cuaderno escriba el número de veces que **LibreOffice Writer** encontró la palabra **aplicaciones.**
+
+4. Ahora se debe **reemplazar** todas las apariciones de la palabra **aplicaciones.** Siga los siguientes pasos:
+
+    - PULSE las teclas {kbd}`CTRL` + {kbd}`ALT` + {kbd}`B` para abrir la ventana {guilabel}`Buscar y reemplazar`.
+    - En la ventana de {guilabel}`Buscar y reemplazar` MARQUE las opciones:
+        - **Distinguir mayúsculas y minúsculas**
+        - **Solo palabras completas**
+    - En el campo **Buscar,** ESCRIBA la palabra: **aplicaciones**
+    - PULSE el botón: **Buscar todo**.
+
+    :::{image} ./recursos/image14.png
+    :align: center
+    :width: 600
+    :::
+    - En su cuaderno escriba el número de veces que **LibreOffice Writer** encontró la palabra **aplicaciones.** (debe coincidir con el número de veces mostrado anteriormente).
+    - En el campo **Reemplazar**, ESCRIBA la palabra: **programas**
+    - PULSE el botón: {guilabel}`Reemplazar todo`
+    - CIERRE la ventana de {guilabel}`Buscar y reemplazar`
+
+5. Con la **barra de herramientas de Buscar**, ahora realice la búsqueda de la palabra: **programas**
+
+6. En su cuaderno escriba el número de veces que **LibreOffice Writer** encontró la palabra **programas.** (el número de veces debe ser mayor que 2 pero menor que 20).
+
+7. En su cuaderno escriba las diferencias entre las características de la **barra de herramientas de Buscar** y la ventana {guilabel}`Buscar y reemplazar`.
+
+8. GUARDE los cambios y CIERRE el software **LibreOffice Writer.**
+
+---
+## TAREA 05: Corrector ortográfico {kbd}`1`
+
+En esta tarea aprenderá a trabajar con herramientas de revisión y autocorrección de idioma en documentos. 
+
+1. EJECUTE el software **LibreOffice Writer**.
+
+2. AGREGUE el título centrado: **Corrector ortográfico.** También AGREGUE sus **nombres completos**, **curso**, **jornada**, **fecha** y **hora**.
+
+3. GUARDE el documento en su **carpeta de evidencias** con el nombre: **A04T05-corrector_ortografico.odt**
+
+4. Copie y pegue el siguiente texto en el documento:
+
+    > En el año 2023, una extaña situacion ocurrio en la ciudad. 5 gatos desaparecieron sin dejar rastro. La policia investigo durante 3 semanas, pero no encontro ninguna pista. Luego, 2 tesigos afirmaron haber visto algo inusual cerca del parque. Uno de ellos dijo que vio una nave espacial, mientras que el otro juro que eran 7 duendes. El misterio se profundizo cuando se descubrieron 10 huellas giganes en el cesped. Los cientificos analisrron las huellas durante 4 dias y determinaron que eran de un animal desconocido. La prenso publico 12 articulos sobre el tema, generando gran expectacion. Al final, despues de 6 meses, el misterio se resolvio de manera inesperada: los gatos havian sido secuestrados por un grupo de niñoz traviesos que querian jugar con ellos. La polisia encontro a los gatos en una caza abandonada, sanos y salbos. La historia fue un gran exito, pero nadie pudo exxplicar las 15 huellas ni los avistamientos.
+    >
+
+5. PULSAR el botón: **Barra de herramientas estándar** > {guilabel}`Revisar ortografía`
+
+    :::{image} ./recursos/image15.png
+    :width: 50
+    :align: center
+    :::
+
+6. En la ventana: {guilabel}`Ortografía: Español (Colombia)`, corregir con las sugerencias que da el asistente de ortografía de LibreOffice Writer.
+
+    :::{image} ./recursos/image16.png
+    :width: 600
+    :align: center
+    :::
+
+7. Una vez finalice con el asistente de ortografía, lea el texto y solucione manualmente los errores que quedan.
+
+8. GUARDE los cambios y cierre el software **LibreOffice Writer**.
+
+---
+## TAREA 06: EVALUACIÓN
+
+:::{admonition} Presentación de cuaderno y carpeta de evidencias
+:class: attention
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El estudiante presenta su carpeta de evidencias.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+:::
