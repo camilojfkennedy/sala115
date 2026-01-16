@@ -45,8 +45,8 @@ cursos/programacion11/index.md
 :::{toctree}
 :hidden:
 :maxdepth: 2
-:caption: BITÁCORA
+:caption: GESTIÓN
 
-bitacora/2026.md
+gestion/2026.md
 referencias.md
 :::

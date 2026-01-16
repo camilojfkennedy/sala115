@@ -39,3 +39,33 @@ Identifique el recurso y PULSE el botón **descargar**.
 - A07T01-curriculum.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo02/recursos/A07T01-curriculum.odt)
 
 - A07T02-estilo_personalizado.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo02/recursos/A07T02-estilo_personalizado.odt)
+
+- A08T01-mitos_imagen.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A08T01-mitos-imagen.odt)
+
+- adonis.png [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/adonis.jpg)
+
+- afrodita.png [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/afrodita.png)
+
+- A09T01-organizacion_oficina.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A09T01-organizacion_oficina.odt)
+
+- A09T02-mitos.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A09T02-mitos.odt)
+
+- A09T03-mitos_a5.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A09T03-mitos_a5.odt)
+
+- diosa_venus.jpg [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/diosa_venus.jpg)
+
+- A09T04-organizacion_oficina_horizontal.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A09T04-organizacion_oficina_horizontal.odt)
+
+- A09T05-mitos_a5_fondo.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A09T05-mitos_a5_fondo.odt)
+
+- A09T06-mitos.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A09T06-mitos.odt)
+
+- A10T01-hermes.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A10T01-hermes.odt)
+
+- A10T01-mitos.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A10T01-mitos.odt)
+
+- A10T02-proyecto_escritorio_libre.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A10T02-proyecto_escritorio_libre.odt)
+
+- A11T03-tablas03.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A11T03-tablas03.odt)
+
+- A11T04-tablas04.odt [{bdg-primary}`Descargar`](../cursos/ofimatica10/periodo03/recursos/A11T04-tablas04.odt)

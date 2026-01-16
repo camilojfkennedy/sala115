@@ -1,0 +1,45 @@
+# 2026
+
+Registro de eventos del año 2026 (año 1/3).
+
+
+---
+## Portal en línea
+```{article-info}
+:avatar: ../fonsecamilo89Kennedy.png
+:author: Camilo Fonseca
+:date: 15 Ene, 2026
+:read-time: 9:03 p.m
+```
+
+Portal en producción. Se publican los cursos de:
+
+- Lógica computacional grado octavo.
+- Informática grado décimo.
+- Ofimática y programación grado décimo.
+- Ofimática y programación grado once.
+
+El **portal sala 115** de momento es un prototipo de EVA (Entorno Virtual de Aprendizaje) para ser usado por los estudiantes de media de la IEJFK en el municipio de Puerto Boyacá (Colombia). Los diseños iniciales fueron desarrollados en los años 2024 y 2025 usando otras tecnologías como OBSIDIAN o NOTION. Con la experiencia pedagógica adquirida en estos dos años, se construye esta versión inicial usando la tecnología suministrada por [**READ THE DOCS**](https://about.readthedocs.com). El EVA (Portal sala 115) será sometido a pruebas durante los años 2026 y 2027. Se espera que para el año 2028 se tenga una versión final.
+
+El objetivo de este EVA (Portal Sala 115) es ayudar en el desarrollo de los aprendizajes de los estudiantes y las enseñanzas del docente en el área de informática. De esta forma, garantizar el acceso de los educandos a los diferentes recursos digitales para la adquisición de sus conocimientos. 
+
+De momento, el curso Ofimática 11 se encuentra en construcción. Sin embargo, esto no afecta a los estudiantes de grado ONCE (2026), ya que todas las temáticas de ofimática de grado décimo y once fueron vistas en el año 2025.
+
+Los estudiantes de grado ONCE de 2026 verán las temáticas de programación de grado décimo y once. Esto es así porque en décimo solo se vieron temáticas de ofimática.
+
+Los estudiantes de grado ONCE del 2027 verán las temáticas tanto de ofimática como de programación normalmente.
+
+Esto es así debido a los esfuerzos para adaptar el plan de área de la especialidad en sistemas en la materia de Ofimática y Programación de grados décimo y once. El cual se ha ido implementando de forma progresiva desde el año 2024 y cuyo objetivo es el de actualizar contenidos con tecnologías actuales y facilitar los aprendizajes de los estudiantes.
+
+
+
+---
+## INicio
+```{article-info}
+:avatar: ../fonsecamilo89Kennedy.png
+:author: Camilo Fonseca
+:date: 24 Nov, 2025
+:read-time: 5:48 p.m
+```
+
+Portal sala 115 en línea (En construcción).

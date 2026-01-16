@@ -59,7 +59,7 @@ Puntaje INSTRUIMOS | Nota IEJFK
 ---
 ## ACCESO al PORTAL SALA 115
 
-- INTERNET: [WEB](https://www.jfkennedy.edu.co)
+- INTERNET: [WEB](https://sala115.readthedocs.io)
 - INTRANET: [LOCAL](http://192.168.115.201)
 
 ---
