@@ -1,3 +1,6 @@
 # Ofimática 11
 
-> En construcción...
+Bienvenido al curso de ofimática de grado once.
+
+Acceda a las actividades según el periodo.
+
