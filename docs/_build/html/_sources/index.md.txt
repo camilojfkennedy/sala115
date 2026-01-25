@@ -1,10 +1,12 @@
-# Portal sala 115
+# EVA: Portal sala 115
 
 ![Sala 115](./sala115.png)
 
-> *“Bienvenido al portal web de la Sala 115”*
+> *"Bienvenido a clase"*
 
-En este espacio usted puede acceder a los **recursos académicos**, usados en los cursos de la Sala de Informática 115 de la [Institución Educativa John F. Kennedy](https://www.jfkennedy.edu.co) en Puerto Boyacá, Boyacá.
+    
+
+En este espacio usted puede acceder a los **recursos educativos digitales**, usados en las clases que se dictan en la *sala de Informática 115* de la [Institución Educativa John F. Kennedy](https://www.jfkennedy.edu.co) en Puerto Boyacá, Boyacá (Colombia).
 
 :::{admonition} DOCENTE: Julian Camilo Fonseca Romero
 :class: note
@@ -38,7 +40,6 @@ cursos/logica8/index.md
 cursos/informatica10/index.md
 cursos/ofimatica10/index.md
 cursos/programacion10/index.md
-cursos/ofimatica11/index.md
 cursos/programacion11/index.md
 :::
 
@@ -47,6 +48,6 @@ cursos/programacion11/index.md
 :maxdepth: 2
 :caption: GESTIÓN
 
-gestion/2026.md
+gestion/bitacora.md
 referencias.md
 :::
