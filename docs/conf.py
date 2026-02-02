@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'sala 115'
+project = 'aula 115'
 copyright = '2026, Julian Camilo Fonseca Romero, IE John F. Kennedy, Puerto Boyacá (Boyacá), Colombia.'
 author = 'Julian Camilo Fonseca Romero'
 
@@ -41,7 +41,7 @@ language = 'es'
 
 html_theme = 'furo'
 html_static_path = ['_static']
-html_title = "EVA - sala 115"
+html_title = "EVA - aula 115 (pruebas)"
 
 pygments_style = "sphinx"
 pygments_dark_style = "monokai"

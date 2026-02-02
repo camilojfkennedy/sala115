@@ -1,34 +1,17 @@
-# EVA: Portal sala 115
+# EVA: aula 115 (sitio de pruebas)
 
-![Sala 115](./sala115.png)
+**NO USAR ESTE ENTORNO VIRTUAL**. Este es un ***sitio de pruebas*** en el diseño de futuros cursos para el aula de informática 115 de la institución educativa John F. Kennedy en Puerto Boyacá (Boyacá), Colombia.
 
-> *"Bienvenido a clase"*
+Para acceder al ENTORNO VIRTUAL ACTUAL, acceder al siguiente enlace:
 
-    
-
-En este espacio usted puede acceder a los **recursos educativos digitales**, usados en las clases que se dictan en la *sala de Informática 115* de la [Institución Educativa John F. Kennedy](https://www.jfkennedy.edu.co) en Puerto Boyacá, Boyacá (Colombia).
-
-:::{admonition} DOCENTE: Julian Camilo Fonseca Romero
-:class: note
-Ingeniero en Mecatrónica (2012), Especialista en Seguridad de la Información (2015), Magister en Ingeniería de Software y Sistemas Informáticos (2017).
-
-$$
-f(x)=transferencia(estructuración(exploración))
-$$
-
-**Principios de la clase**:
-1. "Se aprende haciendo"
-2. "Se aprende enseñando"
-3. "Todo se sustenta" 
-:::
+> - [EVA: aula 115](https://aula115.readthedocs.io)
 
 :::{toctree}
 :hidden:
 :maxdepth: 2
 
 intro.md
-recursos/informacion.md
-recursos/descargas.md
+descargas.md
 :::
 
 :::{toctree}
@@ -36,11 +19,8 @@ recursos/descargas.md
 :maxdepth: 2
 :caption: CURSOS
 
-cursos/logica8/index.md
-cursos/informatica10/index.md
-cursos/ofimatica10/index.md
-cursos/programacion10/index.md
-cursos/programacion11/index.md
+cursos/logica9/index.md
+cursos/ofimatica11/index.md
 :::
 
 :::{toctree}
@@ -49,5 +29,5 @@ cursos/programacion11/index.md
 :caption: GESTIÓN
 
 gestion/bitacora.md
-referencias.md
+gestion/referencias.md
 :::
