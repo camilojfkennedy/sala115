@@ -1,4 +1,4 @@
-# 2026
+# Bitácora
 
 Registro de eventos del año 2026 (año 1/3).
 

@@ -38,7 +38,6 @@ cursos/logica8/index.md
 cursos/informatica10/index.md
 cursos/ofimatica10/index.md
 cursos/programacion10/index.md
-cursos/ofimatica11/index.md
 cursos/programacion11/index.md
 :::
 
@@ -47,6 +46,6 @@ cursos/programacion11/index.md
 :maxdepth: 2
 :caption: GESTIÓN
 
-gestion/2026.md
+gestion/bitacora.md
 referencias.md
 :::

@@ -74,11 +74,11 @@ La siguiente tabla muestra los límites de almacenamiento que tiene cada integra
 
 :::{table}
 
- _ | ACTIVO | EGRESADO | RETIRADO | EXPULSADO | PENSIONADO
--|-|-|-|-|-
-**ADMINISTRATIVO** | 1TB | **N/A** | 16GB | **N/A** | 16GB
-**DOCENTE** | 256GB | **N/A** | 16GB | **N/A** | 16GB
-**ESTUDIANTE** | 16GB | 16GB | ❌ | ❌ | **N/A**
+ rol | ACTIVO | EGRESADO | RETIRADO | PENSIONADO
+-|-|-|-|-
+**ADMINISTRATIVO** | 1TB | **N/A** | 16GB | 16GB
+**DOCENTE** | 256GB | **N/A** | 16GB | 16GB
+**ESTUDIANTE** | 16GB | 16GB | ❌ | **N/A**
 
 :::
 

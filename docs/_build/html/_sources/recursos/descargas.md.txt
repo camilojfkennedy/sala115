@@ -5,12 +5,13 @@ A continuación encuentra varios recursos digitales usados en el desarrollo de l
 Identifique el recurso y PULSE el botón **descargar**.
 
 
-## Kennedy
+## Institución Educativa John F. Kennedy
 
 - MANUAL DE CONVIVENCIA [{bdg-primary}`Descargar`](./recursos/manual_convivencia.pdf)
 
 
 ## Proyecto de grado
+
 - Plantilla Marco Teórico (LibreOffice) [{bdg-primary}`Descargar`](../cursos/informatica10/recursos/recursos/ESQUEMA_MARCO_TEORICO.odt)
 - Plantilla Anteproyecto (LibreOffice) [{bdg-primary}`Descargar`](../cursos/informatica10/recursos/recursos/Plantilla_ANTEPROYECTO.odt)
 - Plantilla Anteproyecto (Microsoft word) [{bdg-primary}`Descargar`](../cursos/informatica10/recursos/recursos/Plantilla_ANTEPROYECTO.docx)
