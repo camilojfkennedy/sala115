@@ -1,22 +1,137 @@
 # A01: Sistema numérico hexadecimal
 
-En esta actividad, se estudia el sistema numérico hexadecimal. Para esto primero se repasan los sistemas numéricos decimal y binario. Desarrolle las siguientes tareas:
+En esta actividad, se estudia el sistema numérico hexadecimal. Para esto primero se repasan los sistemas numéricos decimal y binario.
+
+:::{admonition} AVISO
+:class: seealso
+
+Para desarrollar esta actividad, acceda al siguiente recurso:
+
+- [{bdg-primary-line}`Sistemas de numeración`](../recursos/T01.md)
+
+:::
+
+
+Desarrolle las siguientes tareas:
 
 ---
-## TAREA 01: Sistema numérico decimal
+## TAREA 01: Sistema numéricos antiguos
 
-En esta tarea se recuerdan las características del sistema numérico decimal.
+En esta tarea, se estudian las características de los sistemas numéricos antiguos.
 
-1. 
+1. En su cuaderno responda las siguientes preguntas:
+    - ¿Cómo los hombres contaban antiguamente?
+    - ¿Qué dificultades encontró el hombre al usar símbolos para contar?
+    - ¿Cuál fue la solución para las dificulatades al usar símbolos para contar?
+    - ¿En qué grupos se clasifican los sistemas de numeración?
+
+2. En su cuaderno dibuje algunos de los símbolos que el hombre usaba antiguamente para contar.
+
+3. En su cuaderno realice una descripción del uso de la base en sistemas numéricos.
+
+4. Responda la siguiente pregunta en su cuaderno:
+    - ¿Cuáles son las tres bases más conocidas en los sistemas de numeración?
+    - ¿Cómo se representan los sistemas numéricos según la base? (escriba 3 ejemplos, uno por cada base).
 
 ---
-## TAREA 02: Sistema numérico binario
+## TAREA 02: Sistemas numéricos no posicionales
 
-En esta tarea se recuerdan las características del sistema numérico binario.
+En esta tarea, se estudian las características de los sistemas numéricos no posicionales.
 
-1. 
+1. En su cuaderno responda:
+    - ¿Qué son los sistemas numéricos **no posicionales**?
+    - ¿Por qué a los sistemas numéricos **no posicionales** también se les conoce como sistemas numéricos aditivos?
+    - ¿Cuál es la diferencia entre el sistema numérico MAYA y el sistema numérico ROMANO?
+    - En el sistema numérico MAYA, ¿de qué se guiaron para que la base sea 20?
+
+2. En su cuaderno dibuje los símbolos del sistema numérico MAYA.
+
+3. En su cuaderno convierta los siguientes números romanos a números decimales:
+
+    - VIII
+    - MMMXXXIII
+    - LIV
+    - XXXV
+    - MMM
+    - XIII
+    - LII
+    - LXVIII
+    - CXII
+    - MMXXIV
 
 ---
-## TAREA 03: Sistema numérico hexadecimal
+## TAREA 03: Sistemas numéricos posicionales
 
-1.
+En esta tarea, se estudian las características de los sistemas numéricos posicionales.
+
+1. En su cuaderno responda la siguiente pregunta:
+    - ¿Qué son los sistemas numéricos posicionales?
+
+2. En su cuaderno escriba en **sistema numérico decimal** en potencias de **base 10** los siguientes números:
+    - Un millón.
+    - Mil millones.
+    - Un millón de millones.
+    - Mil millones de millones.
+
+3. En su cuaderno represente los siguientes números decimales en potencias de **base 10**:
+
+    - $8,888,888_{(10)}$
+    - $111,111,111,111_{(10)}$
+    - $123,456,789_{(10)}$
+    - $1,001,010,011,100,101_{(10)}$
+    - $2,020,021,022,023,024_{(10)}$
+
+4. En su cuaderno responda las siguientes preguntas:
+
+    - ¿Qué es el sistema numérico binario?
+    - ¿Por qué se dice que el sistema numérico binario, está arraigado a un hecho anatómico?
+
+5. En su cuaderno, escriba los números decimales del uno al quince y en cada uno de estos números, indique su representación binaria.
+
+6. En su cuaderno convierta los siguientes números del sistema **numérico binario** al sistema **numérico decimal**:
+
+    - $00001101_{(2)}$
+    - $00011101_{(2)}$
+    - $00101101_{(2)}$
+    - $01011011_{(2)}$
+    - $11000110_{(2)}$
+    - $10010010_{(2)}$
+    - $01101101_{(2)}$
+    - $10001111_{(2)}$
+
+7. En su cuaderno responda las siguientes preguntas:
+
+    - ¿Qué es el sistema numérico hexadecimal?
+    - ¿Por qué es útil el sistema numérico hexadecimal?
+    - ¿Por qué es tan importante la relación entre los sistemas numéricos binario y hexadecimal?
+
+8. En su cuaderno escriba los números decimales del uno al quince y en cada uno de estos, indique su representación hexadecimal.
+
+9. En su cuaderno convierta los siguientes números del sistema numérico binario al sistema numérico hexadecimal:
+
+    - $010111000100001111111111$
+    - $011111110000011001000010$
+    - $100000110000100110000101$
+    - $001011000100110111111111$
+    - $101101000001001010010110$
+    - $101011000101011111100010$
+    - $011100101101101110011101$
+    - $001100011001111101001000$
+    - $111101010010001100001111$
+    - $000100010010011010011000$
+    - $111100100010100101110001$
+    - $011111011110111010001111$
+    - $001101111111001000100101$
+    - $100101010111011010001110$
+    - $111100110011100001000001$
+    - $111011011011111001101001$
+
+---
+## TAREA 04: Evaluación
+
+:::{admonition} Presentación del cuaderno y sustentación
+:class: attention
+En esta tarea, el estudiante es evaluado con los temas vistos en la presente actividad.
+- El estudiante presenta el cuaderno con el desarrollo de todas las tareas.
+- El docente realiza unas preguntas para comprobar que el estudiante haya entendido los temas.
+:::

@@ -8,4 +8,5 @@ Acceda a las actividades según el periodo.
 :maxdepth: 3
 
 periodo01/index.md
+recursos/index.md
 :::
